@@ -1,0 +1,3862 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI Codex//Merge Fashion Holiday Ops Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Merge Fashion 节日活动排期
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:CST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f1b89520edbd81fd@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261011T100000
+DTEND;TZID=Asia/Shanghai:20261011T103000
+SUMMARY:T-7｜活动素材验收｜重阳节 / Chung Yeung
+DESCRIPTION:目标节日：重阳节 / Chung Yeung（2026-10-18）\\n适用
+ 市场：香港/台湾/东亚\\n素材方向：登高、复古、家族、
+ 秋季暖色\\n节点说明：验收首版素材，确认尺寸、文案
+ 、本地化和商店资源。\\n备注：香港市场可按公众假期
+ 做轻量素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜重阳节 / Chung Yeung
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3143c7e269316d27@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261015T100000
+DTEND;TZID=Asia/Shanghai:20261015T103000
+SUMMARY:T-3｜活动上线检查｜重阳节 / Chung Yeung
+DESCRIPTION:目标节日：重阳节 / Chung Yeung（2026-10-18）\\n适用
+ 市场：香港/台湾/东亚\\n素材方向：登高、复古、家族、
+ 秋季暖色\\n节点说明：检查配置、素材替换、活动入口
+ 、礼包和推送节奏。\\n备注：香港市场可按公众假期做
+ 轻量素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜重阳节 / Chung Yeung
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:89693ecd7200086a@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261017T100000
+DTEND;TZID=Asia/Shanghai:20261017T103000
+SUMMARY:T-14｜提需求｜万圣节 / Halloween
+DESCRIPTION:目标节日：万圣节 / Halloween（2026-10-31）\\n适用
+ 市场：全球/欧美重点\\n素材方向：暗黑童话、女巫、派
+ 对礼服、南瓜配饰\\n节点说明：确认主题方向、主视觉
+ 、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜万圣节 / Halloween
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2f2a39123531c58e@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261018T100000
+DTEND;TZID=Asia/Shanghai:20261018T103000
+SUMMARY:当天｜节日当天｜重阳节 / Chung Yeung
+DESCRIPTION:目标节日：重阳节 / Chung Yeung（2026-10-18）\\n适用
+ 市场：香港/台湾/东亚\\n素材方向：登高、复古、家族、
+ 秋季暖色\\n节点说明：关注上线表现，准备加推、热修
+ 和社媒素材。\\n备注：香港市场可按公众假期做轻量素
+ 材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜重阳节 / Chung Yeung
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f05e2982c5e7d55c@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261024T100000
+DTEND;TZID=Asia/Shanghai:20261024T103000
+SUMMARY:T-7｜活动素材验收｜万圣节 / Halloween
+DESCRIPTION:目标节日：万圣节 / Halloween（2026-10-31）\\n适用
+ 市场：全球/欧美重点\\n素材方向：暗黑童话、女巫、派
+ 对礼服、南瓜配饰\\n节点说明：验收首版素材，确认尺
+ 寸、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜万圣节 / Halloween
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a1c179219a6c5c0a@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261025T100000
+DTEND;TZID=Asia/Shanghai:20261025T103000
+SUMMARY:T-14｜提需求｜排灯节 / Diwali
+DESCRIPTION:目标节日：排灯节 / Diwali（2026-11-08）\\n适用市
+ 场：印度/南亚/全球印度社群\\n素材方向：灯光、金色、
+ 珠宝、传统华服\\n节点说明：确认主题方向、主视觉、
+ 套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜排灯节 / Diwali
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b4ebb9b166360dc8@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261028T100000
+DTEND;TZID=Asia/Shanghai:20261028T103000
+SUMMARY:T-3｜活动上线检查｜万圣节 / Halloween
+DESCRIPTION:目标节日：万圣节 / Halloween（2026-10-31）\\n适用
+ 市场：全球/欧美重点\\n素材方向：暗黑童话、女巫、派
+ 对礼服、南瓜配饰\\n节点说明：检查配置、素材替换、
+ 活动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜万圣节 / Halloween
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:179b43a3847a63b5@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261031T100000
+DTEND;TZID=Asia/Shanghai:20261031T103000
+SUMMARY:当天｜节日当天｜万圣节 / Halloween
+DESCRIPTION:目标节日：万圣节 / Halloween（2026-10-31）\\n适用
+ 市场：全球/欧美重点\\n素材方向：暗黑童话、女巫、派
+ 对礼服、南瓜配饰\\n节点说明：关注上线表现，准备加
+ 推、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜万圣节 / Halloween
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6e1b9d20f434c160@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261101T100000
+DTEND;TZID=Asia/Shanghai:20261101T103000
+SUMMARY:T-7｜活动素材验收｜排灯节 / Diwali
+DESCRIPTION:目标节日：排灯节 / Diwali（2026-11-08）\\n适用市
+ 场：印度/南亚/全球印度社群\\n素材方向：灯光、金色、
+ 珠宝、传统华服\\n节点说明：验收首版素材，确认尺寸
+ 、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜排灯节 / Diwali
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8d589cb3e9910cb4@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261105T100000
+DTEND;TZID=Asia/Shanghai:20261105T103000
+SUMMARY:T-3｜活动上线检查｜排灯节 / Diwali
+DESCRIPTION:目标节日：排灯节 / Diwali（2026-11-08）\\n适用市
+ 场：印度/南亚/全球印度社群\\n素材方向：灯光、金色、
+ 珠宝、传统华服\\n节点说明：检查配置、素材替换、活
+ 动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜排灯节 / Diwali
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ac46644d4ce597c7@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261108T100000
+DTEND;TZID=Asia/Shanghai:20261108T103000
+SUMMARY:当天｜节日当天｜排灯节 / Diwali
+DESCRIPTION:目标节日：排灯节 / Diwali（2026-11-08）\\n适用市
+ 场：印度/南亚/全球印度社群\\n素材方向：灯光、金色、
+ 珠宝、传统华服\\n节点说明：关注上线表现，准备加推
+ 、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜排灯节 / Diwali
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:356109ac6d59a973@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261112T100000
+DTEND;TZID=Asia/Shanghai:20261112T103000
+SUMMARY:T-14｜提需求｜感恩节 / Thanksgiving
+DESCRIPTION:目标节日：感恩节 / Thanksgiving（2026-11-26）\\n适
+ 用市场：美国/加拿大延展\\n素材方向：秋收、家庭晚宴
+ 、针织、暖色礼服\\n节点说明：确认主题方向、主视觉
+ 、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜感恩节 / Thanksgiving
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c570d94d2c089613@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261113T100000
+DTEND;TZID=Asia/Shanghai:20261113T103000
+SUMMARY:T-14｜提需求｜黑色星期五 / Black Friday
+DESCRIPTION:目标节日：黑色星期五 / Black Friday（2026-11-27）\\
+ n适用市场：全球电商/欧美重点\\n素材方向：限时折扣、
+ 黑金、购物狂欢\\n节点说明：确认主题方向、主视觉、
+ 套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜黑色星期五 / Black Friday
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:854fc32388e9d6f1@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261116T100000
+DTEND;TZID=Asia/Shanghai:20261116T103000
+SUMMARY:T-14｜提需求｜网络星期一 / Cyber Monday
+DESCRIPTION:目标节日：网络星期一 / Cyber Monday（2026-11-30）\\
+ n适用市场：全球电商/欧美重点\\n素材方向：线上优惠、
+ 科技感、闪购\\n节点说明：确认主题方向、主视觉、套
+ 装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜网络星期一 / Cyber Monday
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:badb708a2d710b15@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261119T100000
+DTEND;TZID=Asia/Shanghai:20261119T103000
+SUMMARY:T-7｜活动素材验收｜感恩节 / Thanksgiving
+DESCRIPTION:目标节日：感恩节 / Thanksgiving（2026-11-26）\\n适
+ 用市场：美国/加拿大延展\\n素材方向：秋收、家庭晚宴
+ 、针织、暖色礼服\\n节点说明：验收首版素材，确认尺
+ 寸、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜感恩节 / Thanksgiving
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2925575341287b64@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261120T100000
+DTEND;TZID=Asia/Shanghai:20261120T103000
+SUMMARY:T-7｜活动素材验收｜黑色星期五 / Black Friday
+DESCRIPTION:目标节日：黑色星期五 / Black Friday（2026-11-27）\\
+ n适用市场：全球电商/欧美重点\\n素材方向：限时折扣、
+ 黑金、购物狂欢\\n节点说明：验收首版素材，确认尺寸
+ 、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜黑色星期五 / Black Friday
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9f4316349552f267@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261120T100000
+DTEND;TZID=Asia/Shanghai:20261120T103000
+SUMMARY:T-14｜提需求｜光明节 / Hanukkah
+DESCRIPTION:目标节日：光明节 / Hanukkah（2026-12-04）\\n适用市
+ 场：犹太社群/欧美\\n素材方向：蓝银、烛台、冬季礼服\
+ \n节点说明：确认主题方向、主视觉、套装需求、商店包
+ 装和活动入口。\\n备注：按节日开始日排期。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜光明节 / Hanukkah
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20c569d89b85ec2b@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261123T100000
+DTEND;TZID=Asia/Shanghai:20261123T103000
+SUMMARY:T-3｜活动上线检查｜感恩节 / Thanksgiving
+DESCRIPTION:目标节日：感恩节 / Thanksgiving（2026-11-26）\\n适
+ 用市场：美国/加拿大延展\\n素材方向：秋收、家庭晚宴
+ 、针织、暖色礼服\\n节点说明：检查配置、素材替换、
+ 活动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜感恩节 / Thanksgiving
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3e5a8f3dd9da6449@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261123T100000
+DTEND;TZID=Asia/Shanghai:20261123T103000
+SUMMARY:T-7｜活动素材验收｜网络星期一 / Cyber Monday
+DESCRIPTION:目标节日：网络星期一 / Cyber Monday（2026-11-30）\\
+ n适用市场：全球电商/欧美重点\\n素材方向：线上优惠、
+ 科技感、闪购\\n节点说明：验收首版素材，确认尺寸、
+ 文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜网络星期一 / Cyber Monday
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e98b56dbf38a06f9@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261124T100000
+DTEND;TZID=Asia/Shanghai:20261124T103000
+SUMMARY:T-3｜活动上线检查｜黑色星期五 / Black Friday
+DESCRIPTION:目标节日：黑色星期五 / Black Friday（2026-11-27）\\
+ n适用市场：全球电商/欧美重点\\n素材方向：限时折扣、
+ 黑金、购物狂欢\\n节点说明：检查配置、素材替换、活
+ 动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜黑色星期五 / Black Friday
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0fdd871d0b5724e8@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261126T100000
+DTEND;TZID=Asia/Shanghai:20261126T103000
+SUMMARY:当天｜节日当天｜感恩节 / Thanksgiving
+DESCRIPTION:目标节日：感恩节 / Thanksgiving（2026-11-26）\\n适
+ 用市场：美国/加拿大延展\\n素材方向：秋收、家庭晚宴
+ 、针织、暖色礼服\\n节点说明：关注上线表现，准备加
+ 推、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜感恩节 / Thanksgiving
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4b721ddbd7d49856@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261127T100000
+DTEND;TZID=Asia/Shanghai:20261127T103000
+SUMMARY:当天｜节日当天｜黑色星期五 / Black Friday
+DESCRIPTION:目标节日：黑色星期五 / Black Friday（2026-11-27）\\
+ n适用市场：全球电商/欧美重点\\n素材方向：限时折扣、
+ 黑金、购物狂欢\\n节点说明：关注上线表现，准备加推
+ 、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜黑色星期五 / Black Friday
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2caaf7ef79ab4bf6@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261127T100000
+DTEND;TZID=Asia/Shanghai:20261127T103000
+SUMMARY:T-3｜活动上线检查｜网络星期一 / Cyber Monday
+DESCRIPTION:目标节日：网络星期一 / Cyber Monday（2026-11-30）\\
+ n适用市场：全球电商/欧美重点\\n素材方向：线上优惠、
+ 科技感、闪购\\n节点说明：检查配置、素材替换、活动
+ 入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜网络星期一 / Cyber Monday
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:45317ab6d7113980@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261127T100000
+DTEND;TZID=Asia/Shanghai:20261127T103000
+SUMMARY:T-7｜活动素材验收｜光明节 / Hanukkah
+DESCRIPTION:目标节日：光明节 / Hanukkah（2026-12-04）\\n适用市
+ 场：犹太社群/欧美\\n素材方向：蓝银、烛台、冬季礼服\
+ \n节点说明：验收首版素材，确认尺寸、文案、本地化和
+ 商店资源。\\n备注：按节日开始日排期。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜光明节 / Hanukkah
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:73dcf082476aecce@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261130T100000
+DTEND;TZID=Asia/Shanghai:20261130T103000
+SUMMARY:当天｜节日当天｜网络星期一 / Cyber Monday
+DESCRIPTION:目标节日：网络星期一 / Cyber Monday（2026-11-30）\\
+ n适用市场：全球电商/欧美重点\\n素材方向：线上优惠、
+ 科技感、闪购\\n节点说明：关注上线表现，准备加推、
+ 热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜网络星期一 / Cyber Monday
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b2c5f1597009d4c5@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261201T100000
+DTEND;TZID=Asia/Shanghai:20261201T103000
+SUMMARY:T-3｜活动上线检查｜光明节 / Hanukkah
+DESCRIPTION:目标节日：光明节 / Hanukkah（2026-12-04）\\n适用市
+ 场：犹太社群/欧美\\n素材方向：蓝银、烛台、冬季礼服\
+ \n节点说明：检查配置、素材替换、活动入口、礼包和推
+ 送节奏。\\n备注：按节日开始日排期。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜光明节 / Hanukkah
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c6b92f55f94886c5@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261204T100000
+DTEND;TZID=Asia/Shanghai:20261204T103000
+SUMMARY:当天｜节日当天｜光明节 / Hanukkah
+DESCRIPTION:目标节日：光明节 / Hanukkah（2026-12-04）\\n适用市
+ 场：犹太社群/欧美\\n素材方向：蓝银、烛台、冬季礼服\
+ \n节点说明：关注上线表现，准备加推、热修和社媒素材
+ 。\\n备注：按节日开始日排期。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜光明节 / Hanukkah
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4f1e6e3a2acf667d@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261210T100000
+DTEND;TZID=Asia/Shanghai:20261210T103000
+SUMMARY:T-14｜提需求｜平安夜 / Christmas Eve
+DESCRIPTION:目标节日：平安夜 / Christmas Eve（2026-12-24）\\n适
+ 用市场：全球/欧美重点\\n素材方向：派对、礼物、红绿
+ 金、冬季套装\\n节点说明：确认主题方向、主视觉、套
+ 装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜平安夜 / Christmas Eve
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:513f8a28e90b78d8@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261211T100000
+DTEND;TZID=Asia/Shanghai:20261211T103000
+SUMMARY:T-14｜提需求｜圣诞节 / Christmas
+DESCRIPTION:目标节日：圣诞节 / Christmas（2026-12-25）\\n适用
+ 市场：全球/欧美重点\\n素材方向：节庆礼服、雪景、礼
+ 盒、冬季限定\\n节点说明：确认主题方向、主视觉、套
+ 装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜圣诞节 / Christmas
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2c365b3d98809905@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261212T100000
+DTEND;TZID=Asia/Shanghai:20261212T103000
+SUMMARY:T-14｜提需求｜节礼日/Kwanzaa 启动
+DESCRIPTION:目标节日：节礼日/Kwanzaa 启动（2026-12-26）\\n适
+ 用市场：英联邦/非裔社群/零售\\n素材方向：节后促销、
+ 礼物返场、家庭主题\\n节点说明：确认主题方向、主视
+ 觉、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜节礼日/Kwanzaa 启动
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b0cea64359f58d30@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261217T100000
+DTEND;TZID=Asia/Shanghai:20261217T103000
+SUMMARY:T-7｜活动素材验收｜平安夜 / Christmas Eve
+DESCRIPTION:目标节日：平安夜 / Christmas Eve（2026-12-24）\\n适
+ 用市场：全球/欧美重点\\n素材方向：派对、礼物、红绿
+ 金、冬季套装\\n节点说明：验收首版素材，确认尺寸、
+ 文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜平安夜 / Christmas Eve
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3b3d0c52f4f501bb@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261217T100000
+DTEND;TZID=Asia/Shanghai:20261217T103000
+SUMMARY:T-14｜提需求｜跨年夜 / New Year's Eve
+DESCRIPTION:目标节日：跨年夜 / New Year's Eve（2026-12-31）\\n适
+ 用市场：全球\\n素材方向：闪耀礼服、倒计时、烟花、
+ 派对\\n节点说明：确认主题方向、主视觉、套装需求、
+ 商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜跨年夜 / New Year's Eve
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d11a88a07df8d253@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261218T100000
+DTEND;TZID=Asia/Shanghai:20261218T103000
+SUMMARY:T-7｜活动素材验收｜圣诞节 / Christmas
+DESCRIPTION:目标节日：圣诞节 / Christmas（2026-12-25）\\n适用
+ 市场：全球/欧美重点\\n素材方向：节庆礼服、雪景、礼
+ 盒、冬季限定\\n节点说明：验收首版素材，确认尺寸、
+ 文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜圣诞节 / Christmas
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b5a571646742b500@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261218T100000
+DTEND;TZID=Asia/Shanghai:20261218T103000
+SUMMARY:T-14｜提需求｜元旦 / New Year's Day
+DESCRIPTION:目标节日：元旦 / New Year's Day（2027-01-01）\\n适用
+ 市场：全球\\n素材方向：新年愿望、焕新、开年套装\\n
+ 节点说明：确认主题方向、主视觉、套装需求、商店包
+ 装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜元旦 / New Year's Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7c3dd22b26981977@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261219T100000
+DTEND;TZID=Asia/Shanghai:20261219T103000
+SUMMARY:T-7｜活动素材验收｜节礼日/Kwanzaa 启动
+DESCRIPTION:目标节日：节礼日/Kwanzaa 启动（2026-12-26）\\n适
+ 用市场：英联邦/非裔社群/零售\\n素材方向：节后促销、
+ 礼物返场、家庭主题\\n节点说明：验收首版素材，确认
+ 尺寸、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜节礼日/Kwanzaa 启动
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1683d60c00637bd5@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261221T100000
+DTEND;TZID=Asia/Shanghai:20261221T103000
+SUMMARY:T-3｜活动上线检查｜平安夜 / Christmas Eve
+DESCRIPTION:目标节日：平安夜 / Christmas Eve（2026-12-24）\\n适
+ 用市场：全球/欧美重点\\n素材方向：派对、礼物、红绿
+ 金、冬季套装\\n节点说明：检查配置、素材替换、活动
+ 入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜平安夜 / Christmas Eve
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fde80db49ee4a222@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261222T100000
+DTEND;TZID=Asia/Shanghai:20261222T103000
+SUMMARY:T-3｜活动上线检查｜圣诞节 / Christmas
+DESCRIPTION:目标节日：圣诞节 / Christmas（2026-12-25）\\n适用
+ 市场：全球/欧美重点\\n素材方向：节庆礼服、雪景、礼
+ 盒、冬季限定\\n节点说明：检查配置、素材替换、活动
+ 入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜圣诞节 / Christmas
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36c10f269387e26c@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261223T100000
+DTEND;TZID=Asia/Shanghai:20261223T103000
+SUMMARY:T-3｜活动上线检查｜节礼日/Kwanzaa 启动
+DESCRIPTION:目标节日：节礼日/Kwanzaa 启动（2026-12-26）\\n适
+ 用市场：英联邦/非裔社群/零售\\n素材方向：节后促销、
+ 礼物返场、家庭主题\\n节点说明：检查配置、素材替换
+ 、活动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜节礼日/Kwanzaa 启动
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8efb620231cea4d1@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261224T100000
+DTEND;TZID=Asia/Shanghai:20261224T103000
+SUMMARY:当天｜节日当天｜平安夜 / Christmas Eve
+DESCRIPTION:目标节日：平安夜 / Christmas Eve（2026-12-24）\\n适
+ 用市场：全球/欧美重点\\n素材方向：派对、礼物、红绿
+ 金、冬季套装\\n节点说明：关注上线表现，准备加推、
+ 热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜平安夜 / Christmas Eve
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c9b0b884bf5e18e6@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261224T100000
+DTEND;TZID=Asia/Shanghai:20261224T103000
+SUMMARY:T-7｜活动素材验收｜跨年夜 / New Year's Eve
+DESCRIPTION:目标节日：跨年夜 / New Year's Eve（2026-12-31）\\n适
+ 用市场：全球\\n素材方向：闪耀礼服、倒计时、烟花、
+ 派对\\n节点说明：验收首版素材，确认尺寸、文案、本
+ 地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜跨年夜 / New Year's Eve
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:835856124c3e8580@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261225T100000
+DTEND;TZID=Asia/Shanghai:20261225T103000
+SUMMARY:当天｜节日当天｜圣诞节 / Christmas
+DESCRIPTION:目标节日：圣诞节 / Christmas（2026-12-25）\\n适用
+ 市场：全球/欧美重点\\n素材方向：节庆礼服、雪景、礼
+ 盒、冬季限定\\n节点说明：关注上线表现，准备加推、
+ 热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜圣诞节 / Christmas
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1887862feb834da5@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261225T100000
+DTEND;TZID=Asia/Shanghai:20261225T103000
+SUMMARY:T-7｜活动素材验收｜元旦 / New Year's Day
+DESCRIPTION:目标节日：元旦 / New Year's Day（2027-01-01）\\n适用
+ 市场：全球\\n素材方向：新年愿望、焕新、开年套装\\n
+ 节点说明：验收首版素材，确认尺寸、文案、本地化和
+ 商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜元旦 / New Year's Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3a68617e678db82c@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261226T100000
+DTEND;TZID=Asia/Shanghai:20261226T103000
+SUMMARY:当天｜节日当天｜节礼日/Kwanzaa 启动
+DESCRIPTION:目标节日：节礼日/Kwanzaa 启动（2026-12-26）\\n适
+ 用市场：英联邦/非裔社群/零售\\n素材方向：节后促销、
+ 礼物返场、家庭主题\\n节点说明：关注上线表现，准备
+ 加推、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜节礼日/Kwanzaa 启动
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3166e0533db3084b@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261228T100000
+DTEND;TZID=Asia/Shanghai:20261228T103000
+SUMMARY:T-3｜活动上线检查｜跨年夜 / New Year's Eve
+DESCRIPTION:目标节日：跨年夜 / New Year's Eve（2026-12-31）\\n适
+ 用市场：全球\\n素材方向：闪耀礼服、倒计时、烟花、
+ 派对\\n节点说明：检查配置、素材替换、活动入口、礼
+ 包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜跨年夜 / New Year's Eve
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a76772af234a07b7@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261229T100000
+DTEND;TZID=Asia/Shanghai:20261229T103000
+SUMMARY:T-3｜活动上线检查｜元旦 / New Year's Day
+DESCRIPTION:目标节日：元旦 / New Year's Day（2027-01-01）\\n适用
+ 市场：全球\\n素材方向：新年愿望、焕新、开年套装\\n
+ 节点说明：检查配置、素材替换、活动入口、礼包和推
+ 送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜元旦 / New Year's Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:775fbac1e4c2cc9f@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20261231T100000
+DTEND;TZID=Asia/Shanghai:20261231T103000
+SUMMARY:当天｜节日当天｜跨年夜 / New Year's Eve
+DESCRIPTION:目标节日：跨年夜 / New Year's Eve（2026-12-31）\\n适
+ 用市场：全球\\n素材方向：闪耀礼服、倒计时、烟花、
+ 派对\\n节点说明：关注上线表现，准备加推、热修和社
+ 媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜跨年夜 / New Year's Eve
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9438bc3be5fdcacd@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270101T100000
+DTEND;TZID=Asia/Shanghai:20270101T103000
+SUMMARY:当天｜节日当天｜元旦 / New Year's Day
+DESCRIPTION:目标节日：元旦 / New Year's Day（2027-01-01）\\n适用
+ 市场：全球\\n素材方向：新年愿望、焕新、开年套装\\n
+ 节点说明：关注上线表现，准备加推、热修和社媒素材
+ 。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜元旦 / New Year's Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c759bd99e17a60b6@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270123T100000
+DTEND;TZID=Asia/Shanghai:20270123T103000
+SUMMARY:T-14｜提需求｜农历新年 / Lunar New Year
+DESCRIPTION:目标节日：农历新年 / Lunar New Year（2027-02-06）\\n
+ 适用市场：台湾/香港/韩国/越南/新加坡等\\n素材方向：
+ 红金、生肖羊、灯笼、拜年造型\\n节点说明：确认主题
+ 方向、主视觉、套装需求、商店包装和活动入口。\\n备
+ 注：不按中国大陆市场做法，仅覆盖非大陆华人及亚洲
+ 市场。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜农历新年 / Lunar New Year
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a7ec77c8f1741c3c@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270125T100000
+DTEND;TZID=Asia/Shanghai:20270125T103000
+SUMMARY:T-14｜提需求｜斋月开始 / Ramadan Starts
+DESCRIPTION:目标节日：斋月开始 / Ramadan Starts（2027-02-08）\\n
+ 适用市场：中东/东南亚穆斯林市场\\n素材方向：月亮、
+ 星空、 modest fashion、夜市\\n节点说明：确认主题方向、
+ 主视觉、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜斋月开始 / Ramadan Starts
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b34ce60e34b678f6@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270126T100000
+DTEND;TZID=Asia/Shanghai:20270126T103000
+SUMMARY:T-14｜提需求｜狂欢节 / Mardi Gras
+DESCRIPTION:目标节日：狂欢节 / Mardi Gras（2027-02-09）\\n适用
+ 市场：欧美/拉美部分市场\\n素材方向：面具、紫绿金、
+ 嘉年华礼服\\n节点说明：确认主题方向、主视觉、套装
+ 需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜狂欢节 / Mardi Gras
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:951c861050979ad1@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270130T100000
+DTEND;TZID=Asia/Shanghai:20270130T103000
+SUMMARY:T-7｜活动素材验收｜农历新年 / Lunar New Year
+DESCRIPTION:目标节日：农历新年 / Lunar New Year（2027-02-06）\\n
+ 适用市场：台湾/香港/韩国/越南/新加坡等\\n素材方向：
+ 红金、生肖羊、灯笼、拜年造型\\n节点说明：验收首版
+ 素材，确认尺寸、文案、本地化和商店资源。\\n备注：
+ 不按中国大陆市场做法，仅覆盖非大陆华人及亚洲市场
+ 。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜农历新年 / Lunar New Year
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8ea35f259e9b3e6c@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270131T100000
+DTEND;TZID=Asia/Shanghai:20270131T103000
+SUMMARY:T-14｜提需求｜情人节 / Valentine's Day
+DESCRIPTION:目标节日：情人节 / Valentine's Day（2027-02-14）\\n
+ 适用市场：全球\\n素材方向：浪漫、粉红红、约会礼服
+ 、玫瑰\\n节点说明：确认主题方向、主视觉、套装需求
+ 、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜情人节 / Valentine's Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7596bd2768e59346@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270201T100000
+DTEND;TZID=Asia/Shanghai:20270201T103000
+SUMMARY:T-7｜活动素材验收｜斋月开始 / Ramadan Starts
+DESCRIPTION:目标节日：斋月开始 / Ramadan Starts（2027-02-08）\\n
+ 适用市场：中东/东南亚穆斯林市场\\n素材方向：月亮、
+ 星空、 modest fashion、夜市\\n节点说明：验收首版素材，
+ 确认尺寸、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜斋月开始 / Ramadan Starts
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fb5206ecb9fdc16d@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270202T100000
+DTEND;TZID=Asia/Shanghai:20270202T103000
+SUMMARY:T-7｜活动素材验收｜狂欢节 / Mardi Gras
+DESCRIPTION:目标节日：狂欢节 / Mardi Gras（2027-02-09）\\n适用
+ 市场：欧美/拉美部分市场\\n素材方向：面具、紫绿金、
+ 嘉年华礼服\\n节点说明：验收首版素材，确认尺寸、文
+ 案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜狂欢节 / Mardi Gras
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1aad849e2ed5dba6@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270203T100000
+DTEND;TZID=Asia/Shanghai:20270203T103000
+SUMMARY:T-3｜活动上线检查｜农历新年 / Lunar New Year
+DESCRIPTION:目标节日：农历新年 / Lunar New Year（2027-02-06）\\n
+ 适用市场：台湾/香港/韩国/越南/新加坡等\\n素材方向：
+ 红金、生肖羊、灯笼、拜年造型\\n节点说明：检查配置
+ 、素材替换、活动入口、礼包和推送节奏。\\n备注：不
+ 按中国大陆市场做法，仅覆盖非大陆华人及亚洲市场。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜农历新年 / Lunar New Year
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0462abceef85f364@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270205T100000
+DTEND;TZID=Asia/Shanghai:20270205T103000
+SUMMARY:T-3｜活动上线检查｜斋月开始 / Ramadan Starts
+DESCRIPTION:目标节日：斋月开始 / Ramadan Starts（2027-02-08）\\n
+ 适用市场：中东/东南亚穆斯林市场\\n素材方向：月亮、
+ 星空、 modest fashion、夜市\\n节点说明：检查配置、素材
+ 替换、活动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜斋月开始 / Ramadan Starts
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c7d9aaa1f0dfa9d7@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270206T100000
+DTEND;TZID=Asia/Shanghai:20270206T103000
+SUMMARY:当天｜节日当天｜农历新年 / Lunar New Year
+DESCRIPTION:目标节日：农历新年 / Lunar New Year（2027-02-06）\\n
+ 适用市场：台湾/香港/韩国/越南/新加坡等\\n素材方向：
+ 红金、生肖羊、灯笼、拜年造型\\n节点说明：关注上线
+ 表现，准备加推、热修和社媒素材。\\n备注：不按中国
+ 大陆市场做法，仅覆盖非大陆华人及亚洲市场。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜农历新年 / Lunar New Year
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c45807fe8806e8eb@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270206T100000
+DTEND;TZID=Asia/Shanghai:20270206T103000
+SUMMARY:T-3｜活动上线检查｜狂欢节 / Mardi Gras
+DESCRIPTION:目标节日：狂欢节 / Mardi Gras（2027-02-09）\\n适用
+ 市场：欧美/拉美部分市场\\n素材方向：面具、紫绿金、
+ 嘉年华礼服\\n节点说明：检查配置、素材替换、活动入
+ 口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜狂欢节 / Mardi Gras
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:db4b1e85eca18d41@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270206T100000
+DTEND;TZID=Asia/Shanghai:20270206T103000
+SUMMARY:T-14｜提需求｜元宵节 / Lantern Festival
+DESCRIPTION:目标节日：元宵节 / Lantern Festival（2027-02-20）\\n
+ 适用市场：台湾/香港/东亚社群\\n素材方向：灯笼、月夜
+ 、团圆、传统服饰\\n节点说明：确认主题方向、主视觉
+ 、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜元宵节 / Lantern Festival
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a16cb9214509e6a3@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270207T100000
+DTEND;TZID=Asia/Shanghai:20270207T103000
+SUMMARY:T-7｜活动素材验收｜情人节 / Valentine's Day
+DESCRIPTION:目标节日：情人节 / Valentine's Day（2027-02-14）\\n
+ 适用市场：全球\\n素材方向：浪漫、粉红红、约会礼服
+ 、玫瑰\\n节点说明：验收首版素材，确认尺寸、文案、
+ 本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜情人节 / Valentine's Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62af35978a3981a1@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270208T100000
+DTEND;TZID=Asia/Shanghai:20270208T103000
+SUMMARY:当天｜节日当天｜斋月开始 / Ramadan Starts
+DESCRIPTION:目标节日：斋月开始 / Ramadan Starts（2027-02-08）\\n
+ 适用市场：中东/东南亚穆斯林市场\\n素材方向：月亮、
+ 星空、 modest fashion、夜市\\n节点说明：关注上线表现，
+ 准备加推、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜斋月开始 / Ramadan Starts
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f78ceb6b06d46707@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270209T100000
+DTEND;TZID=Asia/Shanghai:20270209T103000
+SUMMARY:当天｜节日当天｜狂欢节 / Mardi Gras
+DESCRIPTION:目标节日：狂欢节 / Mardi Gras（2027-02-09）\\n适用
+ 市场：欧美/拉美部分市场\\n素材方向：面具、紫绿金、
+ 嘉年华礼服\\n节点说明：关注上线表现，准备加推、热
+ 修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜狂欢节 / Mardi Gras
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:55c6cd5f66c773c2@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270211T100000
+DTEND;TZID=Asia/Shanghai:20270211T103000
+SUMMARY:T-3｜活动上线检查｜情人节 / Valentine's Day
+DESCRIPTION:目标节日：情人节 / Valentine's Day（2027-02-14）\\n
+ 适用市场：全球\\n素材方向：浪漫、粉红红、约会礼服
+ 、玫瑰\\n节点说明：检查配置、素材替换、活动入口、
+ 礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜情人节 / Valentine's Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:57d095cde1b8b0a1@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270213T100000
+DTEND;TZID=Asia/Shanghai:20270213T103000
+SUMMARY:T-7｜活动素材验收｜元宵节 / Lantern Festival
+DESCRIPTION:目标节日：元宵节 / Lantern Festival（2027-02-20）\\n
+ 适用市场：台湾/香港/东亚社群\\n素材方向：灯笼、月夜
+ 、团圆、传统服饰\\n节点说明：验收首版素材，确认尺
+ 寸、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜元宵节 / Lantern Festival
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:62dea167b5706e5d@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270214T100000
+DTEND;TZID=Asia/Shanghai:20270214T103000
+SUMMARY:当天｜节日当天｜情人节 / Valentine's Day
+DESCRIPTION:目标节日：情人节 / Valentine's Day（2027-02-14）\\n
+ 适用市场：全球\\n素材方向：浪漫、粉红红、约会礼服
+ 、玫瑰\\n节点说明：关注上线表现，准备加推、热修和
+ 社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜情人节 / Valentine's Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b35111d0715ee3bf@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270217T100000
+DTEND;TZID=Asia/Shanghai:20270217T103000
+SUMMARY:T-3｜活动上线检查｜元宵节 / Lantern Festival
+DESCRIPTION:目标节日：元宵节 / Lantern Festival（2027-02-20）\\n
+ 适用市场：台湾/香港/东亚社群\\n素材方向：灯笼、月夜
+ 、团圆、传统服饰\\n节点说明：检查配置、素材替换、
+ 活动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜元宵节 / Lantern Festival
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7179bf0d21469a60@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270220T100000
+DTEND;TZID=Asia/Shanghai:20270220T103000
+SUMMARY:当天｜节日当天｜元宵节 / Lantern Festival
+DESCRIPTION:目标节日：元宵节 / Lantern Festival（2027-02-20）\\n
+ 适用市场：台湾/香港/东亚社群\\n素材方向：灯笼、月夜
+ 、团圆、传统服饰\\n节点说明：关注上线表现，准备加
+ 推、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜元宵节 / Lantern Festival
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a25aa5fd4867c11@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270221T100000
+DTEND;TZID=Asia/Shanghai:20270221T103000
+SUMMARY:T-14｜提需求｜英国母亲节 / Mothering Sunday
+DESCRIPTION:目标节日：英国母亲节 / Mothering Sunday（2027-03-07
+ ）\\n适用市场：英国/爱尔兰\\n素材方向：花束、优雅裙
+ 装、家庭主题\\n节点说明：确认主题方向、主视觉、套
+ 装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜英国母亲节 / Mothering Sunday
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:073ad91c5d403391@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270222T100000
+DTEND;TZID=Asia/Shanghai:20270222T103000
+SUMMARY:T-14｜提需求｜国际妇女节 / International Women's Day
+DESCRIPTION:目标节日：国际妇女节 / International Women's Day（20
+ 27-03-08）\\n适用市场：全球\\n素材方向：女性力量、职业
+ 装、紫色点缀\\n节点说明：确认主题方向、主视觉、套
+ 装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜国际妇女节 / International Women's Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a4888cf8a9fba88b@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270223T100000
+DTEND;TZID=Asia/Shanghai:20270223T103000
+SUMMARY:T-14｜提需求｜开斋节 / Eid al-Fitr
+DESCRIPTION:目标节日：开斋节 / Eid al-Fitr（2027-03-09）\\n适用
+ 市场：中东/东南亚穆斯林市场\\n素材方向：节庆聚会、
+ 精致长裙、金色饰品\\n节点说明：确认主题方向、主视
+ 觉、套装需求、商店包装和活动入口。\\n备注：实际日
+ 期可能随月相观测微调。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜开斋节 / Eid al-Fitr
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4282b1e6fd5a6569@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270228T100000
+DTEND;TZID=Asia/Shanghai:20270228T103000
+SUMMARY:T-7｜活动素材验收｜英国母亲节 / Mothering Sunday
+DESCRIPTION:目标节日：英国母亲节 / Mothering Sunday（2027-03-07
+ ）\\n适用市场：英国/爱尔兰\\n素材方向：花束、优雅裙
+ 装、家庭主题\\n节点说明：验收首版素材，确认尺寸、
+ 文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜英国母亲节 / Mothering Sunday
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3a94e500de8a8c8b@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270301T100000
+DTEND;TZID=Asia/Shanghai:20270301T103000
+SUMMARY:T-7｜活动素材验收｜国际妇女节 / International Women's 
+ Day
+DESCRIPTION:目标节日：国际妇女节 / International Women's Day（20
+ 27-03-08）\\n适用市场：全球\\n素材方向：女性力量、职业
+ 装、紫色点缀\\n节点说明：验收首版素材，确认尺寸、
+ 文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜国际妇女节 / International Wome
+ n's Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f2582fcc5a8d31cb@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270302T100000
+DTEND;TZID=Asia/Shanghai:20270302T103000
+SUMMARY:T-7｜活动素材验收｜开斋节 / Eid al-Fitr
+DESCRIPTION:目标节日：开斋节 / Eid al-Fitr（2027-03-09）\\n适用
+ 市场：中东/东南亚穆斯林市场\\n素材方向：节庆聚会、
+ 精致长裙、金色饰品\\n节点说明：验收首版素材，确认
+ 尺寸、文案、本地化和商店资源。\\n备注：实际日期可
+ 能随月相观测微调。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜开斋节 / Eid al-Fitr
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fb747a30406ac865@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270303T100000
+DTEND;TZID=Asia/Shanghai:20270303T103000
+SUMMARY:T-14｜提需求｜圣帕特里克节 / St. Patrick's Day
+DESCRIPTION:目标节日：圣帕特里克节 / St. Patrick's Day（2027-03
+ -17）\\n适用市场：欧美/爱尔兰社群\\n素材方向：绿色、
+ 幸运草、派对装\\n节点说明：确认主题方向、主视觉、
+ 套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜圣帕特里克节 / St. Patrick's Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:46ea4c3f08568d6d@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270304T100000
+DTEND;TZID=Asia/Shanghai:20270304T103000
+SUMMARY:T-3｜活动上线检查｜英国母亲节 / Mothering Sunday
+DESCRIPTION:目标节日：英国母亲节 / Mothering Sunday（2027-03-07
+ ）\\n适用市场：英国/爱尔兰\\n素材方向：花束、优雅裙
+ 装、家庭主题\\n节点说明：检查配置、素材替换、活动
+ 入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜英国母亲节 / Mothering Sunday
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cba39bec228838f9@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270305T100000
+DTEND;TZID=Asia/Shanghai:20270305T103000
+SUMMARY:T-3｜活动上线检查｜国际妇女节 / International Women's 
+ Day
+DESCRIPTION:目标节日：国际妇女节 / International Women's Day（20
+ 27-03-08）\\n适用市场：全球\\n素材方向：女性力量、职业
+ 装、紫色点缀\\n节点说明：检查配置、素材替换、活动
+ 入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜国际妇女节 / International Wome
+ n's Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c7cdd68191fed38e@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270306T100000
+DTEND;TZID=Asia/Shanghai:20270306T103000
+SUMMARY:T-3｜活动上线检查｜开斋节 / Eid al-Fitr
+DESCRIPTION:目标节日：开斋节 / Eid al-Fitr（2027-03-09）\\n适用
+ 市场：中东/东南亚穆斯林市场\\n素材方向：节庆聚会、
+ 精致长裙、金色饰品\\n节点说明：检查配置、素材替换
+ 、活动入口、礼包和推送节奏。\\n备注：实际日期可能
+ 随月相观测微调。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜开斋节 / Eid al-Fitr
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0c69e624ee692aec@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270306T100000
+DTEND;TZID=Asia/Shanghai:20270306T103000
+SUMMARY:T-14｜提需求｜诺鲁孜节 / Nowruz
+DESCRIPTION:目标节日：诺鲁孜节 / Nowruz（2027-03-20）\\n适用
+ 市场：伊朗/中亚/波斯文化圈\\n素材方向：春日焕新、花
+ 卉、清新色\\n节点说明：确认主题方向、主视觉、套装
+ 需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜诺鲁孜节 / Nowruz
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a242898e8c869263@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270307T100000
+DTEND;TZID=Asia/Shanghai:20270307T103000
+SUMMARY:当天｜节日当天｜英国母亲节 / Mothering Sunday
+DESCRIPTION:目标节日：英国母亲节 / Mothering Sunday（2027-03-07
+ ）\\n适用市场：英国/爱尔兰\\n素材方向：花束、优雅裙
+ 装、家庭主题\\n节点说明：关注上线表现，准备加推、
+ 热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜英国母亲节 / Mothering Sunday
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8938aa249038195e@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270308T100000
+DTEND;TZID=Asia/Shanghai:20270308T103000
+SUMMARY:当天｜节日当天｜国际妇女节 / International Women's Day
+DESCRIPTION:目标节日：国际妇女节 / International Women's Day（20
+ 27-03-08）\\n适用市场：全球\\n素材方向：女性力量、职业
+ 装、紫色点缀\\n节点说明：关注上线表现，准备加推、
+ 热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜国际妇女节 / International Women's
+  Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1663a53de2860f51@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270309T100000
+DTEND;TZID=Asia/Shanghai:20270309T103000
+SUMMARY:当天｜节日当天｜开斋节 / Eid al-Fitr
+DESCRIPTION:目标节日：开斋节 / Eid al-Fitr（2027-03-09）\\n适用
+ 市场：中东/东南亚穆斯林市场\\n素材方向：节庆聚会、
+ 精致长裙、金色饰品\\n节点说明：关注上线表现，准备
+ 加推、热修和社媒素材。\\n备注：实际日期可能随月相
+ 观测微调。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜开斋节 / Eid al-Fitr
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fd565e955f4589f7@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270310T100000
+DTEND;TZID=Asia/Shanghai:20270310T103000
+SUMMARY:T-7｜活动素材验收｜圣帕特里克节 / St. Patrick's Day
+DESCRIPTION:目标节日：圣帕特里克节 / St. Patrick's Day（2027-03
+ -17）\\n适用市场：欧美/爱尔兰社群\\n素材方向：绿色、
+ 幸运草、派对装\\n节点说明：验收首版素材，确认尺寸
+ 、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜圣帕特里克节 / St. Patrick's D
+ ay
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:966dde1f27f57e34@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270313T100000
+DTEND;TZID=Asia/Shanghai:20270313T103000
+SUMMARY:T-7｜活动素材验收｜诺鲁孜节 / Nowruz
+DESCRIPTION:目标节日：诺鲁孜节 / Nowruz（2027-03-20）\\n适用
+ 市场：伊朗/中亚/波斯文化圈\\n素材方向：春日焕新、花
+ 卉、清新色\\n节点说明：验收首版素材，确认尺寸、文
+ 案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜诺鲁孜节 / Nowruz
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8abd0e6782454c1c@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270314T100000
+DTEND;TZID=Asia/Shanghai:20270314T103000
+SUMMARY:T-3｜活动上线检查｜圣帕特里克节 / St. Patrick's Day
+DESCRIPTION:目标节日：圣帕特里克节 / St. Patrick's Day（2027-03
+ -17）\\n适用市场：欧美/爱尔兰社群\\n素材方向：绿色、
+ 幸运草、派对装\\n节点说明：检查配置、素材替换、活
+ 动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜圣帕特里克节 / St. Patrick's D
+ ay
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:306eb4b4636f75bf@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270314T100000
+DTEND;TZID=Asia/Shanghai:20270314T103000
+SUMMARY:T-14｜提需求｜复活节 / Easter
+DESCRIPTION:目标节日：复活节 / Easter（2027-03-28）\\n适用市
+ 场：欧美/基督教文化圈\\n素材方向：彩蛋、兔子、春装
+ 、淡彩\\n节点说明：确认主题方向、主视觉、套装需求
+ 、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜复活节 / Easter
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bc3a68896c85761f@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270317T100000
+DTEND;TZID=Asia/Shanghai:20270317T103000
+SUMMARY:当天｜节日当天｜圣帕特里克节 / St. Patrick's Day
+DESCRIPTION:目标节日：圣帕特里克节 / St. Patrick's Day（2027-03
+ -17）\\n适用市场：欧美/爱尔兰社群\\n素材方向：绿色、
+ 幸运草、派对装\\n节点说明：关注上线表现，准备加推
+ 、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜圣帕特里克节 / St. Patrick's Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:320ecf2e397b575d@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270317T100000
+DTEND;TZID=Asia/Shanghai:20270317T103000
+SUMMARY:T-3｜活动上线检查｜诺鲁孜节 / Nowruz
+DESCRIPTION:目标节日：诺鲁孜节 / Nowruz（2027-03-20）\\n适用
+ 市场：伊朗/中亚/波斯文化圈\\n素材方向：春日焕新、花
+ 卉、清新色\\n节点说明：检查配置、素材替换、活动入
+ 口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜诺鲁孜节 / Nowruz
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fd94f8dd5f00e791@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270320T100000
+DTEND;TZID=Asia/Shanghai:20270320T103000
+SUMMARY:当天｜节日当天｜诺鲁孜节 / Nowruz
+DESCRIPTION:目标节日：诺鲁孜节 / Nowruz（2027-03-20）\\n适用
+ 市场：伊朗/中亚/波斯文化圈\\n素材方向：春日焕新、花
+ 卉、清新色\\n节点说明：关注上线表现，准备加推、热
+ 修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜诺鲁孜节 / Nowruz
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2dd4f36ede138711@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270321T100000
+DTEND;TZID=Asia/Shanghai:20270321T103000
+SUMMARY:T-7｜活动素材验收｜复活节 / Easter
+DESCRIPTION:目标节日：复活节 / Easter（2027-03-28）\\n适用市
+ 场：欧美/基督教文化圈\\n素材方向：彩蛋、兔子、春装
+ 、淡彩\\n节点说明：验收首版素材，确认尺寸、文案、
+ 本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜复活节 / Easter
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4f96723f1f8e858e@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270321T100000
+DTEND;TZID=Asia/Shanghai:20270321T103000
+SUMMARY:T-14｜提需求｜儿童节/清明档 / Children's Day & Ching Min
+ g
+DESCRIPTION:目标节日：儿童节/清明档 / Children's Day & Ching Min
+ g（2027-04-04）\\n适用市场：台湾/香港\\n素材方向：亲子
+ 、童趣、春季出游\\n节点说明：确认主题方向、主视觉
+ 、套装需求、商店包装和活动入口。\\n备注：台湾儿童
+ 节固定 4/4，香港清明假期为 4/5。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜儿童节/清明档 / Children's Day & Ching
+  Ming
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5053eea3108a741d@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270325T100000
+DTEND;TZID=Asia/Shanghai:20270325T103000
+SUMMARY:T-3｜活动上线检查｜复活节 / Easter
+DESCRIPTION:目标节日：复活节 / Easter（2027-03-28）\\n适用市
+ 场：欧美/基督教文化圈\\n素材方向：彩蛋、兔子、春装
+ 、淡彩\\n节点说明：检查配置、素材替换、活动入口、
+ 礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜复活节 / Easter
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9beb044c7b73ca61@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270328T100000
+DTEND;TZID=Asia/Shanghai:20270328T103000
+SUMMARY:当天｜节日当天｜复活节 / Easter
+DESCRIPTION:目标节日：复活节 / Easter（2027-03-28）\\n适用市
+ 场：欧美/基督教文化圈\\n素材方向：彩蛋、兔子、春装
+ 、淡彩\\n节点说明：关注上线表现，准备加推、热修和
+ 社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜复活节 / Easter
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7dc0f53b61619912@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270328T100000
+DTEND;TZID=Asia/Shanghai:20270328T103000
+SUMMARY:T-7｜活动素材验收｜儿童节/清明档 / Children's Day & C
+ hing Ming
+DESCRIPTION:目标节日：儿童节/清明档 / Children's Day & Ching Min
+ g（2027-04-04）\\n适用市场：台湾/香港\\n素材方向：亲子
+ 、童趣、春季出游\\n节点说明：验收首版素材，确认尺
+ 寸、文案、本地化和商店资源。\\n备注：台湾儿童节固
+ 定 4/4，香港清明假期为 4/5。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜儿童节/清明档 / Children's Day
+  & Ching Ming
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:19d23afce0c241ab@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270330T100000
+DTEND;TZID=Asia/Shanghai:20270330T103000
+SUMMARY:T-14｜提需求｜宋干节 / Songkran
+DESCRIPTION:目标节日：宋干节 / Songkran（2027-04-13）\\n适用市
+ 场：泰国/东南亚\\n素材方向：泼水、夏日、清凉穿搭、
+ 花衬衫\\n节点说明：确认主题方向、主视觉、套装需求
+ 、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜宋干节 / Songkran
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:28e317a297db6069@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270401T100000
+DTEND;TZID=Asia/Shanghai:20270401T103000
+SUMMARY:T-3｜活动上线检查｜儿童节/清明档 / Children's Day & C
+ hing Ming
+DESCRIPTION:目标节日：儿童节/清明档 / Children's Day & Ching Min
+ g（2027-04-04）\\n适用市场：台湾/香港\\n素材方向：亲子
+ 、童趣、春季出游\\n节点说明：检查配置、素材替换、
+ 活动入口、礼包和推送节奏。\\n备注：台湾儿童节固定 4
+ /4，香港清明假期为 4/5。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜儿童节/清明档 / Children's Day
+  & Ching Ming
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e48a597a8235f132@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270404T100000
+DTEND;TZID=Asia/Shanghai:20270404T103000
+SUMMARY:当天｜节日当天｜儿童节/清明档 / Children's Day & Chin
+ g Ming
+DESCRIPTION:目标节日：儿童节/清明档 / Children's Day & Ching Min
+ g（2027-04-04）\\n适用市场：台湾/香港\\n素材方向：亲子
+ 、童趣、春季出游\\n节点说明：关注上线表现，准备加
+ 推、热修和社媒素材。\\n备注：台湾儿童节固定 4/4，香
+ 港清明假期为 4/5。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜儿童节/清明档 / Children's Day & 
+ Ching Ming
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cddd5f64a552d189@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270406T100000
+DTEND;TZID=Asia/Shanghai:20270406T103000
+SUMMARY:T-7｜活动素材验收｜宋干节 / Songkran
+DESCRIPTION:目标节日：宋干节 / Songkran（2027-04-13）\\n适用市
+ 场：泰国/东南亚\\n素材方向：泼水、夏日、清凉穿搭、
+ 花衬衫\\n节点说明：验收首版素材，确认尺寸、文案、
+ 本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜宋干节 / Songkran
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:76a9665f4feb0c44@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270407T100000
+DTEND;TZID=Asia/Shanghai:20270407T103000
+SUMMARY:T-14｜提需求｜逾越节 / Passover
+DESCRIPTION:目标节日：逾越节 / Passover（2027-04-21）\\n适用市
+ 场：犹太社群\\n素材方向：家庭晚宴、春季、传统纹样\\
+ n节点说明：确认主题方向、主视觉、套装需求、商店包
+ 装和活动入口。\\n备注：按节日开始日排期。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜逾越节 / Passover
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:57304d23f6822512@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270408T100000
+DTEND;TZID=Asia/Shanghai:20270408T103000
+SUMMARY:T-14｜提需求｜地球日 / Earth Day
+DESCRIPTION:目标节日：地球日 / Earth Day（2027-04-22）\\n适用
+ 市场：全球\\n素材方向：环保、自然、绿色、可持续时
+ 装\\n节点说明：确认主题方向、主视觉、套装需求、商
+ 店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜地球日 / Earth Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d36dca59c03a0ebb@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270410T100000
+DTEND;TZID=Asia/Shanghai:20270410T103000
+SUMMARY:T-3｜活动上线检查｜宋干节 / Songkran
+DESCRIPTION:目标节日：宋干节 / Songkran（2027-04-13）\\n适用市
+ 场：泰国/东南亚\\n素材方向：泼水、夏日、清凉穿搭、
+ 花衬衫\\n节点说明：检查配置、素材替换、活动入口、
+ 礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜宋干节 / Songkran
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2264ee556c1999f2@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270413T100000
+DTEND;TZID=Asia/Shanghai:20270413T103000
+SUMMARY:当天｜节日当天｜宋干节 / Songkran
+DESCRIPTION:目标节日：宋干节 / Songkran（2027-04-13）\\n适用市
+ 场：泰国/东南亚\\n素材方向：泼水、夏日、清凉穿搭、
+ 花衬衫\\n节点说明：关注上线表现，准备加推、热修和
+ 社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜宋干节 / Songkran
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6d796487151f19f8@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270414T100000
+DTEND;TZID=Asia/Shanghai:20270414T103000
+SUMMARY:T-7｜活动素材验收｜逾越节 / Passover
+DESCRIPTION:目标节日：逾越节 / Passover（2027-04-21）\\n适用市
+ 场：犹太社群\\n素材方向：家庭晚宴、春季、传统纹样\\
+ n节点说明：验收首版素材，确认尺寸、文案、本地化和
+ 商店资源。\\n备注：按节日开始日排期。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜逾越节 / Passover
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3cbbc2ed67e79cc9@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270415T100000
+DTEND;TZID=Asia/Shanghai:20270415T103000
+SUMMARY:T-7｜活动素材验收｜地球日 / Earth Day
+DESCRIPTION:目标节日：地球日 / Earth Day（2027-04-22）\\n适用
+ 市场：全球\\n素材方向：环保、自然、绿色、可持续时
+ 装\\n节点说明：验收首版素材，确认尺寸、文案、本地
+ 化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜地球日 / Earth Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5500d829dc1c5738@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270417T100000
+DTEND;TZID=Asia/Shanghai:20270417T103000
+SUMMARY:T-14｜提需求｜劳动节 / May Day
+DESCRIPTION:目标节日：劳动节 / May Day（2027-05-01）\\n适用市
+ 场：欧洲/台湾/香港/多数国际市场\\n素材方向：春夏促
+ 销、轻户外、工作日焕新\\n节点说明：确认主题方向、
+ 主视觉、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜劳动节 / May Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e8bc8d1450fdad20@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270418T100000
+DTEND;TZID=Asia/Shanghai:20270418T103000
+SUMMARY:T-3｜活动上线检查｜逾越节 / Passover
+DESCRIPTION:目标节日：逾越节 / Passover（2027-04-21）\\n适用市
+ 场：犹太社群\\n素材方向：家庭晚宴、春季、传统纹样\\
+ n节点说明：检查配置、素材替换、活动入口、礼包和推
+ 送节奏。\\n备注：按节日开始日排期。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜逾越节 / Passover
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d1d76d9daf451726@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270418T100000
+DTEND;TZID=Asia/Shanghai:20270418T103000
+SUMMARY:T-14｜提需求｜东正教复活节 / Orthodox Easter
+DESCRIPTION:目标节日：东正教复活节 / Orthodox Easter（2027-05-0
+ 2）\\n适用市场：东欧/希腊/东正教市场\\n素材方向：春
+ 装、彩蛋、传统纹样\\n节点说明：确认主题方向、主视
+ 觉、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜东正教复活节 / Orthodox Easter
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a097bd7d0c6ac5f0@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270419T100000
+DTEND;TZID=Asia/Shanghai:20270419T103000
+SUMMARY:T-3｜活动上线检查｜地球日 / Earth Day
+DESCRIPTION:目标节日：地球日 / Earth Day（2027-04-22）\\n适用
+ 市场：全球\\n素材方向：环保、自然、绿色、可持续时
+ 装\\n节点说明：检查配置、素材替换、活动入口、礼包
+ 和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜地球日 / Earth Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a2c9e4cb130ac67d@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270419T100000
+DTEND;TZID=Asia/Shanghai:20270419T103000
+SUMMARY:T-14｜提需求｜日本黄金周 / Golden Week
+DESCRIPTION:目标节日：日本黄金周 / Golden Week（2027-05-03）\\n
+ 适用市场：日本\\n素材方向：出游、春夏换装、休闲套
+ 装\\n节点说明：确认主题方向、主视觉、套装需求、商
+ 店包装和活动入口。\\n备注：以 5/3-5/5 核心连续假期为
+ 素材窗口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜日本黄金周 / Golden Week
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6b631cd9bf7aebfa@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270421T100000
+DTEND;TZID=Asia/Shanghai:20270421T103000
+SUMMARY:当天｜节日当天｜逾越节 / Passover
+DESCRIPTION:目标节日：逾越节 / Passover（2027-04-21）\\n适用市
+ 场：犹太社群\\n素材方向：家庭晚宴、春季、传统纹样\\
+ n节点说明：关注上线表现，准备加推、热修和社媒素材
+ 。\\n备注：按节日开始日排期。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜逾越节 / Passover
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:45f4bbc9313b712c@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270422T100000
+DTEND;TZID=Asia/Shanghai:20270422T103000
+SUMMARY:当天｜节日当天｜地球日 / Earth Day
+DESCRIPTION:目标节日：地球日 / Earth Day（2027-04-22）\\n适用
+ 市场：全球\\n素材方向：环保、自然、绿色、可持续时
+ 装\\n节点说明：关注上线表现，准备加推、热修和社媒
+ 素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜地球日 / Earth Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:816f5b0d9df60f70@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270424T100000
+DTEND;TZID=Asia/Shanghai:20270424T103000
+SUMMARY:T-7｜活动素材验收｜劳动节 / May Day
+DESCRIPTION:目标节日：劳动节 / May Day（2027-05-01）\\n适用市
+ 场：欧洲/台湾/香港/多数国际市场\\n素材方向：春夏促
+ 销、轻户外、工作日焕新\\n节点说明：验收首版素材，
+ 确认尺寸、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜劳动节 / May Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e0517097cb6e9e18@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270425T100000
+DTEND;TZID=Asia/Shanghai:20270425T103000
+SUMMARY:T-7｜活动素材验收｜东正教复活节 / Orthodox Easter
+DESCRIPTION:目标节日：东正教复活节 / Orthodox Easter（2027-05-0
+ 2）\\n适用市场：东欧/希腊/东正教市场\\n素材方向：春
+ 装、彩蛋、传统纹样\\n节点说明：验收首版素材，确认
+ 尺寸、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜东正教复活节 / Orthodox Easter
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:40f1e21d9881f0b0@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270425T100000
+DTEND;TZID=Asia/Shanghai:20270425T103000
+SUMMARY:T-14｜提需求｜母亲节 / Mother's Day
+DESCRIPTION:目标节日：母亲节 / Mother's Day（2027-05-09）\\n适
+ 用市场：美国/台湾/香港/多国\\n素材方向：花、珍珠、
+ 温柔礼服、家庭主题\\n节点说明：确认主题方向、主视
+ 觉、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜母亲节 / Mother's Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2b46b9bca5c3aa4f@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270426T100000
+DTEND;TZID=Asia/Shanghai:20270426T103000
+SUMMARY:T-7｜活动素材验收｜日本黄金周 / Golden Week
+DESCRIPTION:目标节日：日本黄金周 / Golden Week（2027-05-03）\\n
+ 适用市场：日本\\n素材方向：出游、春夏换装、休闲套
+ 装\\n节点说明：验收首版素材，确认尺寸、文案、本地
+ 化和商店资源。\\n备注：以 5/3-5/5 核心连续假期为素材
+ 窗口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜日本黄金周 / Golden Week
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:252f32a75da01ff7@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270428T100000
+DTEND;TZID=Asia/Shanghai:20270428T103000
+SUMMARY:T-3｜活动上线检查｜劳动节 / May Day
+DESCRIPTION:目标节日：劳动节 / May Day（2027-05-01）\\n适用市
+ 场：欧洲/台湾/香港/多数国际市场\\n素材方向：春夏促
+ 销、轻户外、工作日焕新\\n节点说明：检查配置、素材
+ 替换、活动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜劳动节 / May Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bee23c2949745b81@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270429T100000
+DTEND;TZID=Asia/Shanghai:20270429T103000
+SUMMARY:T-3｜活动上线检查｜东正教复活节 / Orthodox Easter
+DESCRIPTION:目标节日：东正教复活节 / Orthodox Easter（2027-05-0
+ 2）\\n适用市场：东欧/希腊/东正教市场\\n素材方向：春
+ 装、彩蛋、传统纹样\\n节点说明：检查配置、素材替换
+ 、活动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜东正教复活节 / Orthodox Easter
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:21401386f0b2dc38@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270429T100000
+DTEND;TZID=Asia/Shanghai:20270429T103000
+SUMMARY:T-14｜提需求｜佛诞/卫塞节 / Buddha's Birthday & Vesak
+DESCRIPTION:目标节日：佛诞/卫塞节 / Buddha's Birthday & Vesak（2
+ 027-05-13）\\n适用市场：香港/韩国/东南亚佛教市场\\n素材
+ 方向：莲花、灯、静谧色、传统元素\\n节点说明：确认
+ 主题方向、主视觉、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜佛诞/卫塞节 / Buddha's Birthday & Vesak
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e4c8f3865a94d8b8@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270430T100000
+DTEND;TZID=Asia/Shanghai:20270430T103000
+SUMMARY:T-3｜活动上线检查｜日本黄金周 / Golden Week
+DESCRIPTION:目标节日：日本黄金周 / Golden Week（2027-05-03）\\n
+ 适用市场：日本\\n素材方向：出游、春夏换装、休闲套
+ 装\\n节点说明：检查配置、素材替换、活动入口、礼包
+ 和推送节奏。\\n备注：以 5/3-5/5 核心连续假期为素材窗
+ 口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜日本黄金周 / Golden Week
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3ac63eb9247ff541@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270501T100000
+DTEND;TZID=Asia/Shanghai:20270501T103000
+SUMMARY:当天｜节日当天｜劳动节 / May Day
+DESCRIPTION:目标节日：劳动节 / May Day（2027-05-01）\\n适用市
+ 场：欧洲/台湾/香港/多数国际市场\\n素材方向：春夏促
+ 销、轻户外、工作日焕新\\n节点说明：关注上线表现，
+ 准备加推、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜劳动节 / May Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4ee10c9007d872c8@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270502T100000
+DTEND;TZID=Asia/Shanghai:20270502T103000
+SUMMARY:当天｜节日当天｜东正教复活节 / Orthodox Easter
+DESCRIPTION:目标节日：东正教复活节 / Orthodox Easter（2027-05-0
+ 2）\\n适用市场：东欧/希腊/东正教市场\\n素材方向：春
+ 装、彩蛋、传统纹样\\n节点说明：关注上线表现，准备
+ 加推、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜东正教复活节 / Orthodox Easter
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8fddc49948da89b2@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270502T100000
+DTEND;TZID=Asia/Shanghai:20270502T103000
+SUMMARY:T-7｜活动素材验收｜母亲节 / Mother's Day
+DESCRIPTION:目标节日：母亲节 / Mother's Day（2027-05-09）\\n适
+ 用市场：美国/台湾/香港/多国\\n素材方向：花、珍珠、
+ 温柔礼服、家庭主题\\n节点说明：验收首版素材，确认
+ 尺寸、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜母亲节 / Mother's Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:181ca9d9f5fa1201@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270502T100000
+DTEND;TZID=Asia/Shanghai:20270502T103000
+SUMMARY:T-14｜提需求｜宰牲节 / Eid al-Adha
+DESCRIPTION:目标节日：宰牲节 / Eid al-Adha（2027-05-16）\\n适用
+ 市场：中东/东南亚穆斯林市场\\n素材方向：团聚、礼服
+ 、金色饰品\\n节点说明：确认主题方向、主视觉、套装
+ 需求、商店包装和活动入口。\\n备注：实际日期可能随
+ 月相观测微调。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜宰牲节 / Eid al-Adha
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:36334210951846ef@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270503T100000
+DTEND;TZID=Asia/Shanghai:20270503T103000
+SUMMARY:当天｜节日当天｜日本黄金周 / Golden Week
+DESCRIPTION:目标节日：日本黄金周 / Golden Week（2027-05-03）\\n
+ 适用市场：日本\\n素材方向：出游、春夏换装、休闲套
+ 装\\n节点说明：关注上线表现，准备加推、热修和社媒
+ 素材。\\n备注：以 5/3-5/5 核心连续假期为素材窗口。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜日本黄金周 / Golden Week
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:14000f76eed3ad79@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270506T100000
+DTEND;TZID=Asia/Shanghai:20270506T103000
+SUMMARY:T-3｜活动上线检查｜母亲节 / Mother's Day
+DESCRIPTION:目标节日：母亲节 / Mother's Day（2027-05-09）\\n适
+ 用市场：美国/台湾/香港/多国\\n素材方向：花、珍珠、
+ 温柔礼服、家庭主题\\n节点说明：检查配置、素材替换
+ 、活动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜母亲节 / Mother's Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a2c49a47b7aea8e8@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270506T100000
+DTEND;TZID=Asia/Shanghai:20270506T103000
+SUMMARY:T-7｜活动素材验收｜佛诞/卫塞节 / Buddha's Birthday & V
+ esak
+DESCRIPTION:目标节日：佛诞/卫塞节 / Buddha's Birthday & Vesak（2
+ 027-05-13）\\n适用市场：香港/韩国/东南亚佛教市场\\n素材
+ 方向：莲花、灯、静谧色、传统元素\\n节点说明：验收
+ 首版素材，确认尺寸、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜佛诞/卫塞节 / Buddha's Birthday
+  & Vesak
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6f4bf9ff5dd9ec14@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270509T100000
+DTEND;TZID=Asia/Shanghai:20270509T103000
+SUMMARY:当天｜节日当天｜母亲节 / Mother's Day
+DESCRIPTION:目标节日：母亲节 / Mother's Day（2027-05-09）\\n适
+ 用市场：美国/台湾/香港/多国\\n素材方向：花、珍珠、
+ 温柔礼服、家庭主题\\n节点说明：关注上线表现，准备
+ 加推、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜母亲节 / Mother's Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b4f85a86df4c5cdf@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270509T100000
+DTEND;TZID=Asia/Shanghai:20270509T103000
+SUMMARY:T-7｜活动素材验收｜宰牲节 / Eid al-Adha
+DESCRIPTION:目标节日：宰牲节 / Eid al-Adha（2027-05-16）\\n适用
+ 市场：中东/东南亚穆斯林市场\\n素材方向：团聚、礼服
+ 、金色饰品\\n节点说明：验收首版素材，确认尺寸、文
+ 案、本地化和商店资源。\\n备注：实际日期可能随月相
+ 观测微调。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜宰牲节 / Eid al-Adha
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5621fc6bf261cdac@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270510T100000
+DTEND;TZID=Asia/Shanghai:20270510T103000
+SUMMARY:T-3｜活动上线检查｜佛诞/卫塞节 / Buddha's Birthday & V
+ esak
+DESCRIPTION:目标节日：佛诞/卫塞节 / Buddha's Birthday & Vesak（2
+ 027-05-13）\\n适用市场：香港/韩国/东南亚佛教市场\\n素材
+ 方向：莲花、灯、静谧色、传统元素\\n节点说明：检查
+ 配置、素材替换、活动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜佛诞/卫塞节 / Buddha's Birthday
+  & Vesak
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5e9c6056928c859d@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270513T100000
+DTEND;TZID=Asia/Shanghai:20270513T103000
+SUMMARY:当天｜节日当天｜佛诞/卫塞节 / Buddha's Birthday & Vesa
+ k
+DESCRIPTION:目标节日：佛诞/卫塞节 / Buddha's Birthday & Vesak（2
+ 027-05-13）\\n适用市场：香港/韩国/东南亚佛教市场\\n素材
+ 方向：莲花、灯、静谧色、传统元素\\n节点说明：关注
+ 上线表现，准备加推、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜佛诞/卫塞节 / Buddha's Birthday & 
+ Vesak
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1ed8582e60258290@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270513T100000
+DTEND;TZID=Asia/Shanghai:20270513T103000
+SUMMARY:T-3｜活动上线检查｜宰牲节 / Eid al-Adha
+DESCRIPTION:目标节日：宰牲节 / Eid al-Adha（2027-05-16）\\n适用
+ 市场：中东/东南亚穆斯林市场\\n素材方向：团聚、礼服
+ 、金色饰品\\n节点说明：检查配置、素材替换、活动入
+ 口、礼包和推送节奏。\\n备注：实际日期可能随月相观
+ 测微调。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜宰牲节 / Eid al-Adha
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a25b8df7370d75ee@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270516T100000
+DTEND;TZID=Asia/Shanghai:20270516T103000
+SUMMARY:当天｜节日当天｜宰牲节 / Eid al-Adha
+DESCRIPTION:目标节日：宰牲节 / Eid al-Adha（2027-05-16）\\n适用
+ 市场：中东/东南亚穆斯林市场\\n素材方向：团聚、礼服
+ 、金色饰品\\n节点说明：关注上线表现，准备加推、热
+ 修和社媒素材。\\n备注：实际日期可能随月相观测微调
+ 。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜宰牲节 / Eid al-Adha
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:04448ee274ded31c@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270517T100000
+DTEND;TZID=Asia/Shanghai:20270517T103000
+SUMMARY:T-14｜提需求｜美国阵亡将士纪念日 / Memorial Day
+DESCRIPTION:目标节日：美国阵亡将士纪念日 / Memorial Day（202
+ 7-05-31）\\n适用市场：美国零售\\n素材方向：夏日开场、
+ 蓝白红、长周末促销\\n节点说明：确认主题方向、主视
+ 觉、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜美国阵亡将士纪念日 / Memorial Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8b4a9f851f562c63@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270518T100000
+DTEND;TZID=Asia/Shanghai:20270518T103000
+SUMMARY:T-14｜提需求｜儿童节/骄傲月启动
+DESCRIPTION:目标节日：儿童节/骄傲月启动（2027-06-01）\\n适
+ 用市场：国际/欧美重点\\n素材方向：童趣、彩虹、多元
+ 表达、夏季主题\\n节点说明：确认主题方向、主视觉、
+ 套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜儿童节/骄傲月启动
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:81394fa36b591877@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270524T100000
+DTEND;TZID=Asia/Shanghai:20270524T103000
+SUMMARY:T-7｜活动素材验收｜美国阵亡将士纪念日 / Memorial D
+ ay
+DESCRIPTION:目标节日：美国阵亡将士纪念日 / Memorial Day（202
+ 7-05-31）\\n适用市场：美国零售\\n素材方向：夏日开场、
+ 蓝白红、长周末促销\\n节点说明：验收首版素材，确认
+ 尺寸、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜美国阵亡将士纪念日 / Memori
+ al Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:29549460392f941e@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270525T100000
+DTEND;TZID=Asia/Shanghai:20270525T103000
+SUMMARY:T-7｜活动素材验收｜儿童节/骄傲月启动
+DESCRIPTION:目标节日：儿童节/骄傲月启动（2027-06-01）\\n适
+ 用市场：国际/欧美重点\\n素材方向：童趣、彩虹、多元
+ 表达、夏季主题\\n节点说明：验收首版素材，确认尺寸
+ 、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜儿童节/骄傲月启动
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f348dcc56011c025@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270526T100000
+DTEND;TZID=Asia/Shanghai:20270526T103000
+SUMMARY:T-14｜提需求｜端午节 / Dragon Boat Festival
+DESCRIPTION:目标节日：端午节 / Dragon Boat Festival（2027-06-09）
+ \\n适用市场：台湾/香港/东亚社群\\n素材方向：龙舟、香
+ 囊、夏日传统纹样\\n节点说明：确认主题方向、主视觉
+ 、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜端午节 / Dragon Boat Festival
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7b0dc07928f806b1@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270528T100000
+DTEND;TZID=Asia/Shanghai:20270528T103000
+SUMMARY:T-3｜活动上线检查｜美国阵亡将士纪念日 / Memorial D
+ ay
+DESCRIPTION:目标节日：美国阵亡将士纪念日 / Memorial Day（202
+ 7-05-31）\\n适用市场：美国零售\\n素材方向：夏日开场、
+ 蓝白红、长周末促销\\n节点说明：检查配置、素材替换
+ 、活动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜美国阵亡将士纪念日 / Memori
+ al Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e605f217b4fd0e25@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270529T100000
+DTEND;TZID=Asia/Shanghai:20270529T103000
+SUMMARY:T-3｜活动上线检查｜儿童节/骄傲月启动
+DESCRIPTION:目标节日：儿童节/骄傲月启动（2027-06-01）\\n适
+ 用市场：国际/欧美重点\\n素材方向：童趣、彩虹、多元
+ 表达、夏季主题\\n节点说明：检查配置、素材替换、活
+ 动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜儿童节/骄傲月启动
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:96b05f307157093d@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270531T100000
+DTEND;TZID=Asia/Shanghai:20270531T103000
+SUMMARY:当天｜节日当天｜美国阵亡将士纪念日 / Memorial Day
+DESCRIPTION:目标节日：美国阵亡将士纪念日 / Memorial Day（202
+ 7-05-31）\\n适用市场：美国零售\\n素材方向：夏日开场、
+ 蓝白红、长周末促销\\n节点说明：关注上线表现，准备
+ 加推、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜美国阵亡将士纪念日 / Memorial 
+ Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8cc92a3320302b73@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270601T100000
+DTEND;TZID=Asia/Shanghai:20270601T103000
+SUMMARY:当天｜节日当天｜儿童节/骄傲月启动
+DESCRIPTION:目标节日：儿童节/骄傲月启动（2027-06-01）\\n适
+ 用市场：国际/欧美重点\\n素材方向：童趣、彩虹、多元
+ 表达、夏季主题\\n节点说明：关注上线表现，准备加推
+ 、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜儿童节/骄傲月启动
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8f77f125d2edf4fe@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270602T100000
+DTEND;TZID=Asia/Shanghai:20270602T103000
+SUMMARY:T-7｜活动素材验收｜端午节 / Dragon Boat Festival
+DESCRIPTION:目标节日：端午节 / Dragon Boat Festival（2027-06-09）
+ \\n适用市场：台湾/香港/东亚社群\\n素材方向：龙舟、香
+ 囊、夏日传统纹样\\n节点说明：验收首版素材，确认尺
+ 寸、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜端午节 / Dragon Boat Festival
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:df1f0487e0ea8a7c@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270606T100000
+DTEND;TZID=Asia/Shanghai:20270606T103000
+SUMMARY:T-3｜活动上线检查｜端午节 / Dragon Boat Festival
+DESCRIPTION:目标节日：端午节 / Dragon Boat Festival（2027-06-09）
+ \\n适用市场：台湾/香港/东亚社群\\n素材方向：龙舟、香
+ 囊、夏日传统纹样\\n节点说明：检查配置、素材替换、
+ 活动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜端午节 / Dragon Boat Festival
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c2fc57dfe51908b2@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270606T100000
+DTEND;TZID=Asia/Shanghai:20270606T103000
+SUMMARY:T-14｜提需求｜父亲节 / Father's Day
+DESCRIPTION:目标节日：父亲节 / Father's Day（2027-06-20）\\n适
+ 用市场：美国/香港/多数国际市场\\n素材方向：家庭、休
+ 闲男装灵感、中性色\\n节点说明：确认主题方向、主视
+ 觉、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜父亲节 / Father's Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ca755a9d3bd40b72@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270609T100000
+DTEND;TZID=Asia/Shanghai:20270609T103000
+SUMMARY:当天｜节日当天｜端午节 / Dragon Boat Festival
+DESCRIPTION:目标节日：端午节 / Dragon Boat Festival（2027-06-09）
+ \\n适用市场：台湾/香港/东亚社群\\n素材方向：龙舟、香
+ 囊、夏日传统纹样\\n节点说明：关注上线表现，准备加
+ 推、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜端午节 / Dragon Boat Festival
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:42628d09fc96107a@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270613T100000
+DTEND;TZID=Asia/Shanghai:20270613T103000
+SUMMARY:T-7｜活动素材验收｜父亲节 / Father's Day
+DESCRIPTION:目标节日：父亲节 / Father's Day（2027-06-20）\\n适
+ 用市场：美国/香港/多数国际市场\\n素材方向：家庭、休
+ 闲男装灵感、中性色\\n节点说明：验收首版素材，确认
+ 尺寸、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜父亲节 / Father's Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7160859f8ce1a788@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270617T100000
+DTEND;TZID=Asia/Shanghai:20270617T103000
+SUMMARY:T-3｜活动上线检查｜父亲节 / Father's Day
+DESCRIPTION:目标节日：父亲节 / Father's Day（2027-06-20）\\n适
+ 用市场：美国/香港/多数国际市场\\n素材方向：家庭、休
+ 闲男装灵感、中性色\\n节点说明：检查配置、素材替换
+ 、活动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜父亲节 / Father's Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f77d195c0d856e21@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270620T100000
+DTEND;TZID=Asia/Shanghai:20270620T103000
+SUMMARY:当天｜节日当天｜父亲节 / Father's Day
+DESCRIPTION:目标节日：父亲节 / Father's Day（2027-06-20）\\n适
+ 用市场：美国/香港/多数国际市场\\n素材方向：家庭、休
+ 闲男装灵感、中性色\\n节点说明：关注上线表现，准备
+ 加推、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜父亲节 / Father's Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:631f3223751cc0ce@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270620T100000
+DTEND;TZID=Asia/Shanghai:20270620T103000
+SUMMARY:T-14｜提需求｜美国独立日 / Independence Day
+DESCRIPTION:目标节日：美国独立日 / Independence Day（2027-07-04
+ ）\\n适用市场：美国\\n素材方向：红白蓝、烟花、夏日
+ 派对\\n节点说明：确认主题方向、主视觉、套装需求、
+ 商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜美国独立日 / Independence Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bbb6772b66590d11@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270623T100000
+DTEND;TZID=Asia/Shanghai:20270623T103000
+SUMMARY:T-14｜提需求｜七夕/Tanabata
+DESCRIPTION:目标节日：七夕/Tanabata（2027-07-07）\\n适用市场
+ ：日本\\n素材方向：星河、许愿、浪漫夏夜\\n节点说明
+ ：确认主题方向、主视觉、套装需求、商店包装和活动
+ 入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜七夕/Tanabata
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e40e099230d6403d@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270627T100000
+DTEND;TZID=Asia/Shanghai:20270627T103000
+SUMMARY:T-7｜活动素材验收｜美国独立日 / Independence Day
+DESCRIPTION:目标节日：美国独立日 / Independence Day（2027-07-04
+ ）\\n适用市场：美国\\n素材方向：红白蓝、烟花、夏日
+ 派对\\n节点说明：验收首版素材，确认尺寸、文案、本
+ 地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜美国独立日 / Independence Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8add5c5e33be3d61@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270630T100000
+DTEND;TZID=Asia/Shanghai:20270630T103000
+SUMMARY:T-7｜活动素材验收｜七夕/Tanabata
+DESCRIPTION:目标节日：七夕/Tanabata（2027-07-07）\\n适用市场
+ ：日本\\n素材方向：星河、许愿、浪漫夏夜\\n节点说明
+ ：验收首版素材，确认尺寸、文案、本地化和商店资源
+ 。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜七夕/Tanabata
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:93d2527e3c436f29@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270630T100000
+DTEND;TZID=Asia/Shanghai:20270630T103000
+SUMMARY:T-14｜提需求｜法国国庆 / Bastille Day
+DESCRIPTION:目标节日：法国国庆 / Bastille Day（2027-07-14）\\n
+ 适用市场：法国/欧洲时尚市场\\n素材方向：法式、蓝白
+ 红、巴黎感\\n节点说明：确认主题方向、主视觉、套装
+ 需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜法国国庆 / Bastille Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e0a085b33b208f92@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270701T100000
+DTEND;TZID=Asia/Shanghai:20270701T103000
+SUMMARY:T-3｜活动上线检查｜美国独立日 / Independence Day
+DESCRIPTION:目标节日：美国独立日 / Independence Day（2027-07-04
+ ）\\n适用市场：美国\\n素材方向：红白蓝、烟花、夏日
+ 派对\\n节点说明：检查配置、素材替换、活动入口、礼
+ 包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜美国独立日 / Independence Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:13ea0c73ed38beed@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270704T100000
+DTEND;TZID=Asia/Shanghai:20270704T103000
+SUMMARY:当天｜节日当天｜美国独立日 / Independence Day
+DESCRIPTION:目标节日：美国独立日 / Independence Day（2027-07-04
+ ）\\n适用市场：美国\\n素材方向：红白蓝、烟花、夏日
+ 派对\\n节点说明：关注上线表现，准备加推、热修和社
+ 媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜美国独立日 / Independence Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:07cb80bc37bf122f@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270704T100000
+DTEND;TZID=Asia/Shanghai:20270704T103000
+SUMMARY:T-3｜活动上线检查｜七夕/Tanabata
+DESCRIPTION:目标节日：七夕/Tanabata（2027-07-07）\\n适用市场
+ ：日本\\n素材方向：星河、许愿、浪漫夏夜\\n节点说明
+ ：检查配置、素材替换、活动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜七夕/Tanabata
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:42c1382a306c1904@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270707T100000
+DTEND;TZID=Asia/Shanghai:20270707T103000
+SUMMARY:当天｜节日当天｜七夕/Tanabata
+DESCRIPTION:目标节日：七夕/Tanabata（2027-07-07）\\n适用市场
+ ：日本\\n素材方向：星河、许愿、浪漫夏夜\\n节点说明
+ ：关注上线表现，准备加推、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜七夕/Tanabata
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c0ad95fe246811c4@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270707T100000
+DTEND;TZID=Asia/Shanghai:20270707T103000
+SUMMARY:T-7｜活动素材验收｜法国国庆 / Bastille Day
+DESCRIPTION:目标节日：法国国庆 / Bastille Day（2027-07-14）\\n
+ 适用市场：法国/欧洲时尚市场\\n素材方向：法式、蓝白
+ 红、巴黎感\\n节点说明：验收首版素材，确认尺寸、文
+ 案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜法国国庆 / Bastille Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:29f9a3f157828fcb@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270711T100000
+DTEND;TZID=Asia/Shanghai:20270711T103000
+SUMMARY:T-3｜活动上线检查｜法国国庆 / Bastille Day
+DESCRIPTION:目标节日：法国国庆 / Bastille Day（2027-07-14）\\n
+ 适用市场：法国/欧洲时尚市场\\n素材方向：法式、蓝白
+ 红、巴黎感\\n节点说明：检查配置、素材替换、活动入
+ 口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜法国国庆 / Bastille Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:87021e16c2015054@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270714T100000
+DTEND;TZID=Asia/Shanghai:20270714T103000
+SUMMARY:当天｜节日当天｜法国国庆 / Bastille Day
+DESCRIPTION:目标节日：法国国庆 / Bastille Day（2027-07-14）\\n
+ 适用市场：法国/欧洲时尚市场\\n素材方向：法式、蓝白
+ 红、巴黎感\\n节点说明：关注上线表现，准备加推、热
+ 修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜法国国庆 / Bastille Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7b57a91e5c055788@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270725T100000
+DTEND;TZID=Asia/Shanghai:20270725T103000
+SUMMARY:T-14｜提需求｜七夕情人节 / Qixi
+DESCRIPTION:目标节日：七夕情人节 / Qixi（2027-08-08）\\n适用
+ 市场：台湾/香港/亚洲华人社群\\n素材方向：星河、东方
+ 浪漫、约会礼服\\n节点说明：确认主题方向、主视觉、
+ 套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜七夕情人节 / Qixi
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4fce83a9767faa07@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270730T100000
+DTEND;TZID=Asia/Shanghai:20270730T103000
+SUMMARY:T-14｜提需求｜日本盂兰盆节 / Obon
+DESCRIPTION:目标节日：日本盂兰盆节 / Obon（2027-08-13）\\n适
+ 用市场：日本\\n素材方向：夏祭、浴衣、灯笼、烟火\\n
+ 节点说明：确认主题方向、主视觉、套装需求、商店包
+ 装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜日本盂兰盆节 / Obon
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fb916e172b647be2@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270801T100000
+DTEND;TZID=Asia/Shanghai:20270801T103000
+SUMMARY:T-7｜活动素材验收｜七夕情人节 / Qixi
+DESCRIPTION:目标节日：七夕情人节 / Qixi（2027-08-08）\\n适用
+ 市场：台湾/香港/亚洲华人社群\\n素材方向：星河、东方
+ 浪漫、约会礼服\\n节点说明：验收首版素材，确认尺寸
+ 、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜七夕情人节 / Qixi
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6547503bbd9c18b0@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270801T100000
+DTEND;TZID=Asia/Shanghai:20270801T103000
+SUMMARY:T-14｜提需求｜返校季 / Back to School
+DESCRIPTION:目标节日：返校季 / Back to School（2027-08-15）\\n适
+ 用市场：欧美/日韩/全球运营主题\\n素材方向：学院风、
+ 制服、文具、早秋\\n节点说明：确认主题方向、主视觉
+ 、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜返校季 / Back to School
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d487d88ba7e9cb3d@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270805T100000
+DTEND;TZID=Asia/Shanghai:20270805T103000
+SUMMARY:T-3｜活动上线检查｜七夕情人节 / Qixi
+DESCRIPTION:目标节日：七夕情人节 / Qixi（2027-08-08）\\n适用
+ 市场：台湾/香港/亚洲华人社群\\n素材方向：星河、东方
+ 浪漫、约会礼服\\n节点说明：检查配置、素材替换、活
+ 动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜七夕情人节 / Qixi
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bef4f0aaaa93ad22@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270806T100000
+DTEND;TZID=Asia/Shanghai:20270806T103000
+SUMMARY:T-7｜活动素材验收｜日本盂兰盆节 / Obon
+DESCRIPTION:目标节日：日本盂兰盆节 / Obon（2027-08-13）\\n适
+ 用市场：日本\\n素材方向：夏祭、浴衣、灯笼、烟火\\n
+ 节点说明：验收首版素材，确认尺寸、文案、本地化和
+ 商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜日本盂兰盆节 / Obon
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3c392135d40b3cac@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270808T100000
+DTEND;TZID=Asia/Shanghai:20270808T103000
+SUMMARY:当天｜节日当天｜七夕情人节 / Qixi
+DESCRIPTION:目标节日：七夕情人节 / Qixi（2027-08-08）\\n适用
+ 市场：台湾/香港/亚洲华人社群\\n素材方向：星河、东方
+ 浪漫、约会礼服\\n节点说明：关注上线表现，准备加推
+ 、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜七夕情人节 / Qixi
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:86f573116c57ebf7@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270808T100000
+DTEND;TZID=Asia/Shanghai:20270808T103000
+SUMMARY:T-7｜活动素材验收｜返校季 / Back to School
+DESCRIPTION:目标节日：返校季 / Back to School（2027-08-15）\\n适
+ 用市场：欧美/日韩/全球运营主题\\n素材方向：学院风、
+ 制服、文具、早秋\\n节点说明：验收首版素材，确认尺
+ 寸、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜返校季 / Back to School
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e136e134c1bb9233@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270810T100000
+DTEND;TZID=Asia/Shanghai:20270810T103000
+SUMMARY:T-3｜活动上线检查｜日本盂兰盆节 / Obon
+DESCRIPTION:目标节日：日本盂兰盆节 / Obon（2027-08-13）\\n适
+ 用市场：日本\\n素材方向：夏祭、浴衣、灯笼、烟火\\n
+ 节点说明：检查配置、素材替换、活动入口、礼包和推
+ 送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜日本盂兰盆节 / Obon
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3829b30b85a537f3@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270812T100000
+DTEND;TZID=Asia/Shanghai:20270812T103000
+SUMMARY:T-3｜活动上线检查｜返校季 / Back to School
+DESCRIPTION:目标节日：返校季 / Back to School（2027-08-15）\\n适
+ 用市场：欧美/日韩/全球运营主题\\n素材方向：学院风、
+ 制服、文具、早秋\\n节点说明：检查配置、素材替换、
+ 活动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜返校季 / Back to School
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acd04dc9edcb501a@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270813T100000
+DTEND;TZID=Asia/Shanghai:20270813T103000
+SUMMARY:当天｜节日当天｜日本盂兰盆节 / Obon
+DESCRIPTION:目标节日：日本盂兰盆节 / Obon（2027-08-13）\\n适
+ 用市场：日本\\n素材方向：夏祭、浴衣、灯笼、烟火\\n
+ 节点说明：关注上线表现，准备加推、热修和社媒素材
+ 。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜日本盂兰盆节 / Obon
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:12edd7d5106d7339@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270815T100000
+DTEND;TZID=Asia/Shanghai:20270815T103000
+SUMMARY:当天｜节日当天｜返校季 / Back to School
+DESCRIPTION:目标节日：返校季 / Back to School（2027-08-15）\\n适
+ 用市场：欧美/日韩/全球运营主题\\n素材方向：学院风、
+ 制服、文具、早秋\\n节点说明：关注上线表现，准备加
+ 推、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜返校季 / Back to School
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:343709ce39e690db@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270901T100000
+DTEND;TZID=Asia/Shanghai:20270901T103000
+SUMMARY:T-14｜提需求｜中秋节/秋夕 / Mid-Autumn & Chuseok
+DESCRIPTION:目标节日：中秋节/秋夕 / Mid-Autumn & Chuseok（2027-0
+ 9-15）\\n适用市场：台湾/香港/韩国/东亚社群\\n素材方向
+ ：月亮、团圆、韩服/传统服饰、月饼\\n节点说明：确认
+ 主题方向、主视觉、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜中秋节/秋夕 / Mid-Autumn & Chuseok
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6e63f09e340bab6e@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270904T100000
+DTEND;TZID=Asia/Shanghai:20270904T103000
+SUMMARY:T-14｜提需求｜慕尼黑啤酒节 / Oktoberfest
+DESCRIPTION:目标节日：慕尼黑啤酒节 / Oktoberfest（2027-09-18）
+ \\n适用市场：德国/欧洲/全球节庆\\n素材方向：民俗裙装
+ 、秋季、啤酒节色彩\\n节点说明：确认主题方向、主视
+ 觉、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜慕尼黑啤酒节 / Oktoberfest
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cdf69e69be6fe740@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270908T100000
+DTEND;TZID=Asia/Shanghai:20270908T103000
+SUMMARY:T-7｜活动素材验收｜中秋节/秋夕 / Mid-Autumn & Chuseok
+DESCRIPTION:目标节日：中秋节/秋夕 / Mid-Autumn & Chuseok（2027-0
+ 9-15）\\n适用市场：台湾/香港/韩国/东亚社群\\n素材方向
+ ：月亮、团圆、韩服/传统服饰、月饼\\n节点说明：验收
+ 首版素材，确认尺寸、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜中秋节/秋夕 / Mid-Autumn & Chus
+ eok
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cb83a1bd3004a046@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270911T100000
+DTEND;TZID=Asia/Shanghai:20270911T103000
+SUMMARY:T-7｜活动素材验收｜慕尼黑啤酒节 / Oktoberfest
+DESCRIPTION:目标节日：慕尼黑啤酒节 / Oktoberfest（2027-09-18）
+ \\n适用市场：德国/欧洲/全球节庆\\n素材方向：民俗裙装
+ 、秋季、啤酒节色彩\\n节点说明：验收首版素材，确认
+ 尺寸、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜慕尼黑啤酒节 / Oktoberfest
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5c271cac4db0dbb9@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270912T100000
+DTEND;TZID=Asia/Shanghai:20270912T103000
+SUMMARY:T-3｜活动上线检查｜中秋节/秋夕 / Mid-Autumn & Chuseok
+DESCRIPTION:目标节日：中秋节/秋夕 / Mid-Autumn & Chuseok（2027-0
+ 9-15）\\n适用市场：台湾/香港/韩国/东亚社群\\n素材方向
+ ：月亮、团圆、韩服/传统服饰、月饼\\n节点说明：检查
+ 配置、素材替换、活动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜中秋节/秋夕 / Mid-Autumn & Chus
+ eok
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f087e53dc5b62296@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270915T100000
+DTEND;TZID=Asia/Shanghai:20270915T103000
+SUMMARY:当天｜节日当天｜中秋节/秋夕 / Mid-Autumn & Chuseok
+DESCRIPTION:目标节日：中秋节/秋夕 / Mid-Autumn & Chuseok（2027-0
+ 9-15）\\n适用市场：台湾/香港/韩国/东亚社群\\n素材方向
+ ：月亮、团圆、韩服/传统服饰、月饼\\n节点说明：关注
+ 上线表现，准备加推、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜中秋节/秋夕 / Mid-Autumn & Chuseok
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:701d4a5dd5edfaaf@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270915T100000
+DTEND;TZID=Asia/Shanghai:20270915T103000
+SUMMARY:T-3｜活动上线检查｜慕尼黑啤酒节 / Oktoberfest
+DESCRIPTION:目标节日：慕尼黑啤酒节 / Oktoberfest（2027-09-18）
+ \\n适用市场：德国/欧洲/全球节庆\\n素材方向：民俗裙装
+ 、秋季、啤酒节色彩\\n节点说明：检查配置、素材替换
+ 、活动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜慕尼黑啤酒节 / Oktoberfest
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:47cfb8b6f741f485@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270918T100000
+DTEND;TZID=Asia/Shanghai:20270918T103000
+SUMMARY:当天｜节日当天｜慕尼黑啤酒节 / Oktoberfest
+DESCRIPTION:目标节日：慕尼黑啤酒节 / Oktoberfest（2027-09-18）
+ \\n适用市场：德国/欧洲/全球节庆\\n素材方向：民俗裙装
+ 、秋季、啤酒节色彩\\n节点说明：关注上线表现，准备
+ 加推、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜慕尼黑啤酒节 / Oktoberfest
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9c38661f680fb6f5@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270918T100000
+DTEND;TZID=Asia/Shanghai:20270918T103000
+SUMMARY:T-14｜提需求｜犹太新年 / Rosh Hashanah
+DESCRIPTION:目标节日：犹太新年 / Rosh Hashanah（2027-10-02）\\n
+ 适用市场：犹太社群/欧美\\n素材方向：苹果、蜂蜜、秋
+ 季焕新\\n节点说明：确认主题方向、主视觉、套装需求
+ 、商店包装和活动入口。\\n备注：按主要白天日期排期
+ ；节日从前一晚开始。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜犹太新年 / Rosh Hashanah
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9ee76d036fb00e66@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270925T100000
+DTEND;TZID=Asia/Shanghai:20270925T103000
+SUMMARY:T-7｜活动素材验收｜犹太新年 / Rosh Hashanah
+DESCRIPTION:目标节日：犹太新年 / Rosh Hashanah（2027-10-02）\\n
+ 适用市场：犹太社群/欧美\\n素材方向：苹果、蜂蜜、秋
+ 季焕新\\n节点说明：验收首版素材，确认尺寸、文案、
+ 本地化和商店资源。\\n备注：按主要白天日期排期；节
+ 日从前一晚开始。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜犹太新年 / Rosh Hashanah
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:69506fd8570abd0c@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20270929T100000
+DTEND;TZID=Asia/Shanghai:20270929T103000
+SUMMARY:T-3｜活动上线检查｜犹太新年 / Rosh Hashanah
+DESCRIPTION:目标节日：犹太新年 / Rosh Hashanah（2027-10-02）\\n
+ 适用市场：犹太社群/欧美\\n素材方向：苹果、蜂蜜、秋
+ 季焕新\\n节点说明：检查配置、素材替换、活动入口、
+ 礼包和推送节奏。\\n备注：按主要白天日期排期；节日
+ 从前一晚开始。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜犹太新年 / Rosh Hashanah
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:74175ab9fe63dc8b@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271002T100000
+DTEND;TZID=Asia/Shanghai:20271002T103000
+SUMMARY:当天｜节日当天｜犹太新年 / Rosh Hashanah
+DESCRIPTION:目标节日：犹太新年 / Rosh Hashanah（2027-10-02）\\n
+ 适用市场：犹太社群/欧美\\n素材方向：苹果、蜂蜜、秋
+ 季焕新\\n节点说明：关注上线表现，准备加推、热修和
+ 社媒素材。\\n备注：按主要白天日期排期；节日从前一
+ 晚开始。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜犹太新年 / Rosh Hashanah
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a657778916b3bedb@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271015T100000
+DTEND;TZID=Asia/Shanghai:20271015T103000
+SUMMARY:T-14｜提需求｜排灯节 / Diwali
+DESCRIPTION:目标节日：排灯节 / Diwali（2027-10-29）\\n适用市
+ 场：印度/南亚/全球印度社群\\n素材方向：灯光、金色、
+ 珠宝、传统华服\\n节点说明：确认主题方向、主视觉、
+ 套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜排灯节 / Diwali
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:75bea4cfecec71d9@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271017T100000
+DTEND;TZID=Asia/Shanghai:20271017T103000
+SUMMARY:T-14｜提需求｜万圣节 / Halloween
+DESCRIPTION:目标节日：万圣节 / Halloween（2027-10-31）\\n适用
+ 市场：全球/欧美重点\\n素材方向：暗黑童话、女巫、派
+ 对礼服、南瓜配饰\\n节点说明：确认主题方向、主视觉
+ 、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜万圣节 / Halloween
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:de6f1412cad4ff5c@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271022T100000
+DTEND;TZID=Asia/Shanghai:20271022T103000
+SUMMARY:T-7｜活动素材验收｜排灯节 / Diwali
+DESCRIPTION:目标节日：排灯节 / Diwali（2027-10-29）\\n适用市
+ 场：印度/南亚/全球印度社群\\n素材方向：灯光、金色、
+ 珠宝、传统华服\\n节点说明：验收首版素材，确认尺寸
+ 、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜排灯节 / Diwali
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9b5c79aae67f8bb7@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271024T100000
+DTEND;TZID=Asia/Shanghai:20271024T103000
+SUMMARY:T-7｜活动素材验收｜万圣节 / Halloween
+DESCRIPTION:目标节日：万圣节 / Halloween（2027-10-31）\\n适用
+ 市场：全球/欧美重点\\n素材方向：暗黑童话、女巫、派
+ 对礼服、南瓜配饰\\n节点说明：验收首版素材，确认尺
+ 寸、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜万圣节 / Halloween
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f4d07e9aec216011@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271026T100000
+DTEND;TZID=Asia/Shanghai:20271026T103000
+SUMMARY:T-3｜活动上线检查｜排灯节 / Diwali
+DESCRIPTION:目标节日：排灯节 / Diwali（2027-10-29）\\n适用市
+ 场：印度/南亚/全球印度社群\\n素材方向：灯光、金色、
+ 珠宝、传统华服\\n节点说明：检查配置、素材替换、活
+ 动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜排灯节 / Diwali
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2aa0376573efb1dc@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271028T100000
+DTEND;TZID=Asia/Shanghai:20271028T103000
+SUMMARY:T-3｜活动上线检查｜万圣节 / Halloween
+DESCRIPTION:目标节日：万圣节 / Halloween（2027-10-31）\\n适用
+ 市场：全球/欧美重点\\n素材方向：暗黑童话、女巫、派
+ 对礼服、南瓜配饰\\n节点说明：检查配置、素材替换、
+ 活动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜万圣节 / Halloween
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:78cc0d613a8a25bb@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271029T100000
+DTEND;TZID=Asia/Shanghai:20271029T103000
+SUMMARY:当天｜节日当天｜排灯节 / Diwali
+DESCRIPTION:目标节日：排灯节 / Diwali（2027-10-29）\\n适用市
+ 场：印度/南亚/全球印度社群\\n素材方向：灯光、金色、
+ 珠宝、传统华服\\n节点说明：关注上线表现，准备加推
+ 、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜排灯节 / Diwali
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:15be79bad380a32b@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271031T100000
+DTEND;TZID=Asia/Shanghai:20271031T103000
+SUMMARY:当天｜节日当天｜万圣节 / Halloween
+DESCRIPTION:目标节日：万圣节 / Halloween（2027-10-31）\\n适用
+ 市场：全球/欧美重点\\n素材方向：暗黑童话、女巫、派
+ 对礼服、南瓜配饰\\n节点说明：关注上线表现，准备加
+ 推、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜万圣节 / Halloween
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7e603210a5279347@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271111T100000
+DTEND;TZID=Asia/Shanghai:20271111T103000
+SUMMARY:T-14｜提需求｜感恩节 / Thanksgiving
+DESCRIPTION:目标节日：感恩节 / Thanksgiving（2027-11-25）\\n适
+ 用市场：美国/加拿大延展\\n素材方向：秋收、家庭晚宴
+ 、针织、暖色礼服\\n节点说明：确认主题方向、主视觉
+ 、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜感恩节 / Thanksgiving
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b0fdc2d234825553@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271112T100000
+DTEND;TZID=Asia/Shanghai:20271112T103000
+SUMMARY:T-14｜提需求｜黑色星期五 / Black Friday
+DESCRIPTION:目标节日：黑色星期五 / Black Friday（2027-11-26）\\
+ n适用市场：全球电商/欧美重点\\n素材方向：限时折扣、
+ 黑金、购物狂欢\\n节点说明：确认主题方向、主视觉、
+ 套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜黑色星期五 / Black Friday
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0e3fc30f3fbc4205@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271115T100000
+DTEND;TZID=Asia/Shanghai:20271115T103000
+SUMMARY:T-14｜提需求｜网络星期一 / Cyber Monday
+DESCRIPTION:目标节日：网络星期一 / Cyber Monday（2027-11-29）\\
+ n适用市场：全球电商/欧美重点\\n素材方向：线上优惠、
+ 科技感、闪购\\n节点说明：确认主题方向、主视觉、套
+ 装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜网络星期一 / Cyber Monday
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d0f3c27d2a3f9917@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271118T100000
+DTEND;TZID=Asia/Shanghai:20271118T103000
+SUMMARY:T-7｜活动素材验收｜感恩节 / Thanksgiving
+DESCRIPTION:目标节日：感恩节 / Thanksgiving（2027-11-25）\\n适
+ 用市场：美国/加拿大延展\\n素材方向：秋收、家庭晚宴
+ 、针织、暖色礼服\\n节点说明：验收首版素材，确认尺
+ 寸、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜感恩节 / Thanksgiving
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0147befdda9454bc@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271119T100000
+DTEND;TZID=Asia/Shanghai:20271119T103000
+SUMMARY:T-7｜活动素材验收｜黑色星期五 / Black Friday
+DESCRIPTION:目标节日：黑色星期五 / Black Friday（2027-11-26）\\
+ n适用市场：全球电商/欧美重点\\n素材方向：限时折扣、
+ 黑金、购物狂欢\\n节点说明：验收首版素材，确认尺寸
+ 、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜黑色星期五 / Black Friday
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:688ad6d809dcd1cc@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271122T100000
+DTEND;TZID=Asia/Shanghai:20271122T103000
+SUMMARY:T-3｜活动上线检查｜感恩节 / Thanksgiving
+DESCRIPTION:目标节日：感恩节 / Thanksgiving（2027-11-25）\\n适
+ 用市场：美国/加拿大延展\\n素材方向：秋收、家庭晚宴
+ 、针织、暖色礼服\\n节点说明：检查配置、素材替换、
+ 活动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜感恩节 / Thanksgiving
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9e65bea515f1d5a2@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271122T100000
+DTEND;TZID=Asia/Shanghai:20271122T103000
+SUMMARY:T-7｜活动素材验收｜网络星期一 / Cyber Monday
+DESCRIPTION:目标节日：网络星期一 / Cyber Monday（2027-11-29）\\
+ n适用市场：全球电商/欧美重点\\n素材方向：线上优惠、
+ 科技感、闪购\\n节点说明：验收首版素材，确认尺寸、
+ 文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜网络星期一 / Cyber Monday
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2952df201209ecec@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271123T100000
+DTEND;TZID=Asia/Shanghai:20271123T103000
+SUMMARY:T-3｜活动上线检查｜黑色星期五 / Black Friday
+DESCRIPTION:目标节日：黑色星期五 / Black Friday（2027-11-26）\\
+ n适用市场：全球电商/欧美重点\\n素材方向：限时折扣、
+ 黑金、购物狂欢\\n节点说明：检查配置、素材替换、活
+ 动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜黑色星期五 / Black Friday
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a8322560ab7fec23@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271125T100000
+DTEND;TZID=Asia/Shanghai:20271125T103000
+SUMMARY:当天｜节日当天｜感恩节 / Thanksgiving
+DESCRIPTION:目标节日：感恩节 / Thanksgiving（2027-11-25）\\n适
+ 用市场：美国/加拿大延展\\n素材方向：秋收、家庭晚宴
+ 、针织、暖色礼服\\n节点说明：关注上线表现，准备加
+ 推、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜感恩节 / Thanksgiving
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:82cb894de9f1d0fd@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271126T100000
+DTEND;TZID=Asia/Shanghai:20271126T103000
+SUMMARY:当天｜节日当天｜黑色星期五 / Black Friday
+DESCRIPTION:目标节日：黑色星期五 / Black Friday（2027-11-26）\\
+ n适用市场：全球电商/欧美重点\\n素材方向：限时折扣、
+ 黑金、购物狂欢\\n节点说明：关注上线表现，准备加推
+ 、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜黑色星期五 / Black Friday
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c8e434e3820b2ce8@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271126T100000
+DTEND;TZID=Asia/Shanghai:20271126T103000
+SUMMARY:T-3｜活动上线检查｜网络星期一 / Cyber Monday
+DESCRIPTION:目标节日：网络星期一 / Cyber Monday（2027-11-29）\\
+ n适用市场：全球电商/欧美重点\\n素材方向：线上优惠、
+ 科技感、闪购\\n节点说明：检查配置、素材替换、活动
+ 入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜网络星期一 / Cyber Monday
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:788fa35ef04116c4@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271129T100000
+DTEND;TZID=Asia/Shanghai:20271129T103000
+SUMMARY:当天｜节日当天｜网络星期一 / Cyber Monday
+DESCRIPTION:目标节日：网络星期一 / Cyber Monday（2027-11-29）\\
+ n适用市场：全球电商/欧美重点\\n素材方向：线上优惠、
+ 科技感、闪购\\n节点说明：关注上线表现，准备加推、
+ 热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜网络星期一 / Cyber Monday
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d268f050b05684e3@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271210T100000
+DTEND;TZID=Asia/Shanghai:20271210T103000
+SUMMARY:T-14｜提需求｜光明节 / Hanukkah
+DESCRIPTION:目标节日：光明节 / Hanukkah（2027-12-24）\\n适用市
+ 场：犹太社群/欧美\\n素材方向：蓝银、烛台、冬季礼服\
+ \n节点说明：确认主题方向、主视觉、套装需求、商店包
+ 装和活动入口。\\n备注：按节日开始日排期。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜光明节 / Hanukkah
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dd0cc712e7b712c6@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271210T100000
+DTEND;TZID=Asia/Shanghai:20271210T103000
+SUMMARY:T-14｜提需求｜平安夜 / Christmas Eve
+DESCRIPTION:目标节日：平安夜 / Christmas Eve（2027-12-24）\\n适
+ 用市场：全球/欧美重点\\n素材方向：派对、礼物、红绿
+ 金、冬季套装\\n节点说明：确认主题方向、主视觉、套
+ 装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜平安夜 / Christmas Eve
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e1099211ee4a1cfd@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271211T100000
+DTEND;TZID=Asia/Shanghai:20271211T103000
+SUMMARY:T-14｜提需求｜圣诞节 / Christmas
+DESCRIPTION:目标节日：圣诞节 / Christmas（2027-12-25）\\n适用
+ 市场：全球/欧美重点\\n素材方向：节庆礼服、雪景、礼
+ 盒、冬季限定\\n节点说明：确认主题方向、主视觉、套
+ 装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜圣诞节 / Christmas
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:afd119337f3b6b15@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271212T100000
+DTEND;TZID=Asia/Shanghai:20271212T103000
+SUMMARY:T-14｜提需求｜节礼日/Kwanzaa 启动
+DESCRIPTION:目标节日：节礼日/Kwanzaa 启动（2027-12-26）\\n适
+ 用市场：英联邦/非裔社群/零售\\n素材方向：节后促销、
+ 礼物返场、家庭主题\\n节点说明：确认主题方向、主视
+ 觉、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜节礼日/Kwanzaa 启动
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:695bd6bc692945c9@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271217T100000
+DTEND;TZID=Asia/Shanghai:20271217T103000
+SUMMARY:T-7｜活动素材验收｜光明节 / Hanukkah
+DESCRIPTION:目标节日：光明节 / Hanukkah（2027-12-24）\\n适用市
+ 场：犹太社群/欧美\\n素材方向：蓝银、烛台、冬季礼服\
+ \n节点说明：验收首版素材，确认尺寸、文案、本地化和
+ 商店资源。\\n备注：按节日开始日排期。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜光明节 / Hanukkah
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:040c820d77b80cfc@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271217T100000
+DTEND;TZID=Asia/Shanghai:20271217T103000
+SUMMARY:T-7｜活动素材验收｜平安夜 / Christmas Eve
+DESCRIPTION:目标节日：平安夜 / Christmas Eve（2027-12-24）\\n适
+ 用市场：全球/欧美重点\\n素材方向：派对、礼物、红绿
+ 金、冬季套装\\n节点说明：验收首版素材，确认尺寸、
+ 文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜平安夜 / Christmas Eve
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ee53318eb79346b7@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271217T100000
+DTEND;TZID=Asia/Shanghai:20271217T103000
+SUMMARY:T-14｜提需求｜跨年夜 / New Year's Eve
+DESCRIPTION:目标节日：跨年夜 / New Year's Eve（2027-12-31）\\n适
+ 用市场：全球\\n素材方向：闪耀礼服、倒计时、烟花、
+ 派对\\n节点说明：确认主题方向、主视觉、套装需求、
+ 商店包装和活动入口。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-14
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-14｜提需求｜跨年夜 / New Year's Eve
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d6c17d7e34de8090@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271218T100000
+DTEND;TZID=Asia/Shanghai:20271218T103000
+SUMMARY:T-7｜活动素材验收｜圣诞节 / Christmas
+DESCRIPTION:目标节日：圣诞节 / Christmas（2027-12-25）\\n适用
+ 市场：全球/欧美重点\\n素材方向：节庆礼服、雪景、礼
+ 盒、冬季限定\\n节点说明：验收首版素材，确认尺寸、
+ 文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜圣诞节 / Christmas
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:661915c7ed860df1@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271219T100000
+DTEND;TZID=Asia/Shanghai:20271219T103000
+SUMMARY:T-7｜活动素材验收｜节礼日/Kwanzaa 启动
+DESCRIPTION:目标节日：节礼日/Kwanzaa 启动（2027-12-26）\\n适
+ 用市场：英联邦/非裔社群/零售\\n素材方向：节后促销、
+ 礼物返场、家庭主题\\n节点说明：验收首版素材，确认
+ 尺寸、文案、本地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜节礼日/Kwanzaa 启动
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:23c023106a3a2ca6@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271221T100000
+DTEND;TZID=Asia/Shanghai:20271221T103000
+SUMMARY:T-3｜活动上线检查｜光明节 / Hanukkah
+DESCRIPTION:目标节日：光明节 / Hanukkah（2027-12-24）\\n适用市
+ 场：犹太社群/欧美\\n素材方向：蓝银、烛台、冬季礼服\
+ \n节点说明：检查配置、素材替换、活动入口、礼包和推
+ 送节奏。\\n备注：按节日开始日排期。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜光明节 / Hanukkah
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cb7873dc5af61ef6@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271221T100000
+DTEND;TZID=Asia/Shanghai:20271221T103000
+SUMMARY:T-3｜活动上线检查｜平安夜 / Christmas Eve
+DESCRIPTION:目标节日：平安夜 / Christmas Eve（2027-12-24）\\n适
+ 用市场：全球/欧美重点\\n素材方向：派对、礼物、红绿
+ 金、冬季套装\\n节点说明：检查配置、素材替换、活动
+ 入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜平安夜 / Christmas Eve
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3c00d61446702731@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271222T100000
+DTEND;TZID=Asia/Shanghai:20271222T103000
+SUMMARY:T-3｜活动上线检查｜圣诞节 / Christmas
+DESCRIPTION:目标节日：圣诞节 / Christmas（2027-12-25）\\n适用
+ 市场：全球/欧美重点\\n素材方向：节庆礼服、雪景、礼
+ 盒、冬季限定\\n节点说明：检查配置、素材替换、活动
+ 入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜圣诞节 / Christmas
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:42b0847343582e3b@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271223T100000
+DTEND;TZID=Asia/Shanghai:20271223T103000
+SUMMARY:T-3｜活动上线检查｜节礼日/Kwanzaa 启动
+DESCRIPTION:目标节日：节礼日/Kwanzaa 启动（2027-12-26）\\n适
+ 用市场：英联邦/非裔社群/零售\\n素材方向：节后促销、
+ 礼物返场、家庭主题\\n节点说明：检查配置、素材替换
+ 、活动入口、礼包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜节礼日/Kwanzaa 启动
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:05bcb1525fbec264@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271224T100000
+DTEND;TZID=Asia/Shanghai:20271224T103000
+SUMMARY:当天｜节日当天｜光明节 / Hanukkah
+DESCRIPTION:目标节日：光明节 / Hanukkah（2027-12-24）\\n适用市
+ 场：犹太社群/欧美\\n素材方向：蓝银、烛台、冬季礼服\
+ \n节点说明：关注上线表现，准备加推、热修和社媒素材
+ 。\\n备注：按节日开始日排期。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜光明节 / Hanukkah
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:544345c722c84f55@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271224T100000
+DTEND;TZID=Asia/Shanghai:20271224T103000
+SUMMARY:当天｜节日当天｜平安夜 / Christmas Eve
+DESCRIPTION:目标节日：平安夜 / Christmas Eve（2027-12-24）\\n适
+ 用市场：全球/欧美重点\\n素材方向：派对、礼物、红绿
+ 金、冬季套装\\n节点说明：关注上线表现，准备加推、
+ 热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜平安夜 / Christmas Eve
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d97e4a8873d986fe@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271224T100000
+DTEND;TZID=Asia/Shanghai:20271224T103000
+SUMMARY:T-7｜活动素材验收｜跨年夜 / New Year's Eve
+DESCRIPTION:目标节日：跨年夜 / New Year's Eve（2027-12-31）\\n适
+ 用市场：全球\\n素材方向：闪耀礼服、倒计时、烟花、
+ 派对\\n节点说明：验收首版素材，确认尺寸、文案、本
+ 地化和商店资源。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-7｜活动素材验收｜跨年夜 / New Year's Eve
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d20c088bedb3d9b1@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271225T100000
+DTEND;TZID=Asia/Shanghai:20271225T103000
+SUMMARY:当天｜节日当天｜圣诞节 / Christmas
+DESCRIPTION:目标节日：圣诞节 / Christmas（2027-12-25）\\n适用
+ 市场：全球/欧美重点\\n素材方向：节庆礼服、雪景、礼
+ 盒、冬季限定\\n节点说明：关注上线表现，准备加推、
+ 热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜圣诞节 / Christmas
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9b917f37dfb216bc@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271226T100000
+DTEND;TZID=Asia/Shanghai:20271226T103000
+SUMMARY:当天｜节日当天｜节礼日/Kwanzaa 启动
+DESCRIPTION:目标节日：节礼日/Kwanzaa 启动（2027-12-26）\\n适
+ 用市场：英联邦/非裔社群/零售\\n素材方向：节后促销、
+ 礼物返场、家庭主题\\n节点说明：关注上线表现，准备
+ 加推、热修和社媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜节礼日/Kwanzaa 启动
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e84b651b8864af82@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271228T100000
+DTEND;TZID=Asia/Shanghai:20271228T103000
+SUMMARY:T-3｜活动上线检查｜跨年夜 / New Year's Eve
+DESCRIPTION:目标节日：跨年夜 / New Year's Eve（2027-12-31）\\n适
+ 用市场：全球\\n素材方向：闪耀礼服、倒计时、烟花、
+ 派对\\n节点说明：检查配置、素材替换、活动入口、礼
+ 包和推送节奏。
+CATEGORIES:Merge Fashion\,节日活动排期\,T-3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-3｜活动上线检查｜跨年夜 / New Year's Eve
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:48e805cf58edb38a@merge-fashion-holiday-calendar
+DTSTAMP:20261009T073018Z
+DTSTART;TZID=Asia/Shanghai:20271231T100000
+DTEND;TZID=Asia/Shanghai:20271231T103000
+SUMMARY:当天｜节日当天｜跨年夜 / New Year's Eve
+DESCRIPTION:目标节日：跨年夜 / New Year's Eve（2027-12-31）\\n适
+ 用市场：全球\\n素材方向：闪耀礼服、倒计时、烟花、
+ 派对\\n节点说明：关注上线表现，准备加推、热修和社
+ 媒素材。
+CATEGORIES:Merge Fashion\,节日活动排期\,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜跨年夜 / New Year's Eve
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
