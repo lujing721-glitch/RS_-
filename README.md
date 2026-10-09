@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/lujing721-glitch/RS_-/main/merge_fashion_holid
 
 日历事件按两类节点生成：
 
-- `T-14｜提需求`
+- `T-30｜提交设计需求`
 - `当天｜节日当天`
 
 配套 CSV 文件用于检查节日清单、市场和素材方向。
