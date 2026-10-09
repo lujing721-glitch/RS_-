@@ -8,11 +8,9 @@ iPhone 订阅地址：
 https://raw.githubusercontent.com/lujing721-glitch/RS_-/main/merge_fashion_holiday_ops_2026_10_to_2027_12.ics
 ```
 
-日历事件按四类节点生成：
+日历事件按两类节点生成：
 
 - `T-14｜提需求`
-- `T-7｜活动素材验收`
-- `T-3｜活动上线检查`
 - `当天｜节日当天`
 
 配套 CSV 文件用于检查节日清单、市场和素材方向。
