@@ -15,10 +15,10 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:1f9b2a7a9fac8f3b@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20261017T100000
-DTEND;TZID=Asia/Shanghai:20261017T103000
+UID:d6919ef25f43b1c8@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20261001T100000
+DTEND;TZID=Asia/Shanghai:20261001T103000
 SUMMARY:T-30｜提交设计需求｜万圣节 / Halloween
 DESCRIPTION:目标节日：万圣节 / Halloween（2026-10-31）\\n适用
  市场：全球/欧美重点\\n素材方向：暗黑童话、女巫、派
@@ -32,8 +32,25 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:4812cd2017b4217c@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20261026T100000
+DTEND;TZID=Asia/Shanghai:20261026T103000
+SUMMARY:T-30｜提交设计需求｜感恩节 / Thanksgiving
+DESCRIPTION:目标节日：感恩节 / Thanksgiving（2026-11-25）\\n适
+ 用市场：美国/加拿大延展\\n素材方向：秋收、家庭晚宴
+ 、针织、暖色礼服\\n节点说明：确认主题方向、主视觉
+ 、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion,节日活动排期,T-30
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-30｜提交设计需求｜感恩节 / Thanksgiving
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:092937c032373a51@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20261031T100000
 DTEND;TZID=Asia/Shanghai:20261031T103000
 SUMMARY:当天｜节日当天｜万圣节 / Halloween
@@ -49,25 +66,8 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:75d5c15f4b35c99c@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20261111T100000
-DTEND;TZID=Asia/Shanghai:20261111T103000
-SUMMARY:T-30｜提交设计需求｜感恩节 / Thanksgiving
-DESCRIPTION:目标节日：感恩节 / Thanksgiving（2026-11-25）\\n适
- 用市场：美国/加拿大延展\\n素材方向：秋收、家庭晚宴
- 、针织、暖色礼服\\n节点说明：确认主题方向、主视觉
- 、套装需求、商店包装和活动入口。
-CATEGORIES:Merge Fashion,节日活动排期,T-30
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:T-30｜提交设计需求｜感恩节 / Thanksgiving
-TRIGGER:-PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:f770cf1063ec3528@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20261125T100000
 DTEND;TZID=Asia/Shanghai:20261125T103000
 SUMMARY:当天｜节日当天｜感恩节 / Thanksgiving
@@ -83,10 +83,10 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5829811173d0700a@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20261211T100000
-DTEND;TZID=Asia/Shanghai:20261211T103000
+UID:ec033e360a391693@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20261125T100000
+DTEND;TZID=Asia/Shanghai:20261125T103000
 SUMMARY:T-30｜提交设计需求｜圣诞节 / Christmas
 DESCRIPTION:目标节日：圣诞节 / Christmas（2026-12-25）\\n适用
  市场：全球/欧美重点\\n素材方向：节庆礼服、雪景、礼
@@ -100,10 +100,10 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:95098cf14a7d1a24@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20261218T100000
-DTEND;TZID=Asia/Shanghai:20261218T103000
+UID:1b84e1f1bb7c057e@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20261202T100000
+DTEND;TZID=Asia/Shanghai:20261202T103000
 SUMMARY:T-30｜提交设计需求｜元旦 / New Year's Day
 DESCRIPTION:目标节日：元旦 / New Year's Day（2027-01-01）\\n适用
  市场：全球\\n素材方向：新年愿望、焕新、开年套装\\n
@@ -118,7 +118,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b208a0dfa364862b@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20261225T100000
 DTEND;TZID=Asia/Shanghai:20261225T103000
 SUMMARY:当天｜节日当天｜圣诞节 / Christmas
@@ -135,7 +135,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d2302aba79d5bf93@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20270101T100000
 DTEND;TZID=Asia/Shanghai:20270101T103000
 SUMMARY:当天｜节日当天｜元旦 / New Year's Day
@@ -151,10 +151,10 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:771fa32f37a23473@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20270123T100000
-DTEND;TZID=Asia/Shanghai:20270123T103000
+UID:45adb302924ec271@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20270107T100000
+DTEND;TZID=Asia/Shanghai:20270107T103000
 SUMMARY:T-30｜提交设计需求｜农历新年 / Lunar New Year
 DESCRIPTION:目标节日：农历新年 / Lunar New Year（2027-02-06）\\n
  适用市场：台湾/香港/韩国/越南/新加坡等\\n素材方向：
@@ -170,10 +170,10 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9e0a0cd1e4191728@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20270125T100000
-DTEND;TZID=Asia/Shanghai:20270125T103000
+UID:360bfabe611a6d4e@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20270109T100000
+DTEND;TZID=Asia/Shanghai:20270109T103000
 SUMMARY:T-30｜提交设计需求｜斋月开始 / Ramadan Starts
 DESCRIPTION:目标节日：斋月开始 / Ramadan Starts（2027-02-08）\\n
  适用市场：中东/东南亚穆斯林市场\\n素材方向：月亮、
@@ -187,10 +187,10 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:eccfe563e8fdf7a7@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20270131T100000
-DTEND;TZID=Asia/Shanghai:20270131T103000
+UID:bad2387dad21710e@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20270115T100000
+DTEND;TZID=Asia/Shanghai:20270115T103000
 SUMMARY:T-30｜提交设计需求｜情人节 / Valentine's Day
 DESCRIPTION:目标节日：情人节 / Valentine's Day（2027-02-14）\\n
  适用市场：全球\\n素材方向：浪漫、粉红红、约会礼服
@@ -204,8 +204,25 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:db2b01e3f1d4f7af@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20270121T100000
+DTEND;TZID=Asia/Shanghai:20270121T103000
+SUMMARY:T-30｜提交设计需求｜元宵节 / Lantern Festival
+DESCRIPTION:目标节日：元宵节 / Lantern Festival（2027-02-20）\\n
+ 适用市场：台湾/香港/东亚社群\\n素材方向：灯笼、月夜
+ 、团圆、传统服饰\\n节点说明：确认主题方向、主视觉
+ 、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion,节日活动排期,T-30
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-30｜提交设计需求｜元宵节 / Lantern Festival
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:8f5901bc32ffdc9f@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20270206T100000
 DTEND;TZID=Asia/Shanghai:20270206T103000
 SUMMARY:当天｜节日当天｜农历新年 / Lunar New Year
@@ -222,25 +239,45 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:47c5bbe7b51d104f@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+UID:1cde83d9d927bcd8@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20270206T100000
 DTEND;TZID=Asia/Shanghai:20270206T103000
-SUMMARY:T-30｜提交设计需求｜元宵节 / Lantern Festival
-DESCRIPTION:目标节日：元宵节 / Lantern Festival（2027-02-20）\\n
- 适用市场：台湾/香港/东亚社群\\n素材方向：灯笼、月夜
- 、团圆、传统服饰\\n节点说明：确认主题方向、主视觉
- 、套装需求、商店包装和活动入口。
+SUMMARY:T-30｜提交设计需求｜国际妇女节 / International Women's
+  Day
+DESCRIPTION:目标节日：国际妇女节 / International Women's Day（20
+ 27-03-08）\\n适用市场：全球\\n素材方向：女性力量、职业
+ 装、紫色点缀\\n节点说明：确认主题方向、主视觉、套
+ 装需求、商店包装和活动入口。
 CATEGORIES:Merge Fashion,节日活动排期,T-30
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:T-30｜提交设计需求｜元宵节 / Lantern Festival
+DESCRIPTION:T-30｜提交设计需求｜国际妇女节 / International Wom
+ en's Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65f120e9bb115058@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20270207T100000
+DTEND;TZID=Asia/Shanghai:20270207T103000
+SUMMARY:T-30｜提交设计需求｜开斋节 / Eid al-Fitr
+DESCRIPTION:目标节日：开斋节 / Eid al-Fitr（2027-03-09）\\n适用
+ 市场：中东/东南亚穆斯林市场\\n素材方向：节庆聚会、
+ 精致长裙、金色饰品\\n节点说明：确认主题方向、主视
+ 觉、套装需求、商店包装和活动入口。\\n备注：实际日
+ 期可能随月相观测微调。
+CATEGORIES:Merge Fashion,节日活动排期,T-30
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-30｜提交设计需求｜开斋节 / Eid al-Fitr
 TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b01e1cab1e691766@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20270208T100000
 DTEND;TZID=Asia/Shanghai:20270208T103000
 SUMMARY:当天｜节日当天｜斋月开始 / Ramadan Starts
@@ -257,7 +294,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:db15cbb7960d51cb@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20270214T100000
 DTEND;TZID=Asia/Shanghai:20270214T103000
 SUMMARY:当天｜节日当天｜情人节 / Valentine's Day
@@ -274,7 +311,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:45d60e6afa3eb7eb@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20270220T100000
 DTEND;TZID=Asia/Shanghai:20270220T103000
 SUMMARY:当天｜节日当天｜元宵节 / Lantern Festival
@@ -290,45 +327,25 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:90898d394b6d181a@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20270222T100000
-DTEND;TZID=Asia/Shanghai:20270222T103000
-SUMMARY:T-30｜提交设计需求｜国际妇女节 / International Women's
-  Day
-DESCRIPTION:目标节日：国际妇女节 / International Women's Day（20
- 27-03-08）\\n适用市场：全球\\n素材方向：女性力量、职业
- 装、紫色点缀\\n节点说明：确认主题方向、主视觉、套
- 装需求、商店包装和活动入口。
+UID:457988310bc7e803@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20270226T100000
+DTEND;TZID=Asia/Shanghai:20270226T103000
+SUMMARY:T-30｜提交设计需求｜复活节 / Easter
+DESCRIPTION:目标节日：复活节 / Easter（2027-03-28）\\n适用市
+ 场：欧美/基督教文化圈\\n素材方向：彩蛋、兔子、春装
+ 、淡彩\\n节点说明：确认主题方向、主视觉、套装需求
+ 、商店包装和活动入口。
 CATEGORIES:Merge Fashion,节日活动排期,T-30
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:T-30｜提交设计需求｜国际妇女节 / International Wom
- en's Day
-TRIGGER:-PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:21bece55b7701f7b@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20270223T100000
-DTEND;TZID=Asia/Shanghai:20270223T103000
-SUMMARY:T-30｜提交设计需求｜开斋节 / Eid al-Fitr
-DESCRIPTION:目标节日：开斋节 / Eid al-Fitr（2027-03-09）\\n适用
- 市场：中东/东南亚穆斯林市场\\n素材方向：节庆聚会、
- 精致长裙、金色饰品\\n节点说明：确认主题方向、主视
- 觉、套装需求、商店包装和活动入口。\\n备注：实际日
- 期可能随月相观测微调。
-CATEGORIES:Merge Fashion,节日活动排期,T-30
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:T-30｜提交设计需求｜开斋节 / Eid al-Fitr
+DESCRIPTION:T-30｜提交设计需求｜复活节 / Easter
 TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:647dc15218cc44c5@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20270308T100000
 DTEND;TZID=Asia/Shanghai:20270308T103000
 SUMMARY:当天｜节日当天｜国际妇女节 / International Women's Day
@@ -346,7 +363,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:6a5722ff588ffdc4@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20270309T100000
 DTEND;TZID=Asia/Shanghai:20270309T103000
 SUMMARY:当天｜节日当天｜开斋节 / Eid al-Fitr
@@ -363,25 +380,42 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7f99af059d3de762@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+UID:9725d1d932df2bd3@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20270314T100000
 DTEND;TZID=Asia/Shanghai:20270314T103000
-SUMMARY:T-30｜提交设计需求｜复活节 / Easter
-DESCRIPTION:目标节日：复活节 / Easter（2027-03-28）\\n适用市
- 场：欧美/基督教文化圈\\n素材方向：彩蛋、兔子、春装
- 、淡彩\\n节点说明：确认主题方向、主视觉、套装需求
+SUMMARY:T-30｜提交设计需求｜宋干节 / Songkran
+DESCRIPTION:目标节日：宋干节 / Songkran（2027-04-13）\\n适用市
+ 场：泰国/东南亚\\n素材方向：泼水、夏日、清凉穿搭、
+ 花衬衫\\n节点说明：确认主题方向、主视觉、套装需求
  、商店包装和活动入口。
 CATEGORIES:Merge Fashion,节日活动排期,T-30
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:T-30｜提交设计需求｜复活节 / Easter
+DESCRIPTION:T-30｜提交设计需求｜宋干节 / Songkran
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2dccf1d7e207705f@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20270323T100000
+DTEND;TZID=Asia/Shanghai:20270323T103000
+SUMMARY:T-30｜提交设计需求｜地球日 / Earth Day
+DESCRIPTION:目标节日：地球日 / Earth Day（2027-04-22）\\n适用
+ 市场：全球\\n素材方向：环保、自然、绿色、可持续时
+ 装\\n节点说明：确认主题方向、主视觉、套装需求、商
+ 店包装和活动入口。
+CATEGORIES:Merge Fashion,节日活动排期,T-30
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-30｜提交设计需求｜地球日 / Earth Day
 TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:93249a132f6269b3@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20270328T100000
 DTEND;TZID=Asia/Shanghai:20270328T103000
 SUMMARY:当天｜节日当天｜复活节 / Easter
@@ -397,42 +431,60 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bd6334599d52010f@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20270330T100000
-DTEND;TZID=Asia/Shanghai:20270330T103000
-SUMMARY:T-30｜提交设计需求｜宋干节 / Songkran
-DESCRIPTION:目标节日：宋干节 / Songkran（2027-04-13）\\n适用市
- 场：泰国/东南亚\\n素材方向：泼水、夏日、清凉穿搭、
- 花衬衫\\n节点说明：确认主题方向、主视觉、套装需求
- 、商店包装和活动入口。
+UID:033f6c7f9fc370f9@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20270401T100000
+DTEND;TZID=Asia/Shanghai:20270401T103000
+SUMMARY:T-30｜提交设计需求｜劳动节 / May Day
+DESCRIPTION:目标节日：劳动节 / May Day（2027-05-01）\\n适用市
+ 场：欧洲/台湾/香港/多数国际市场\\n素材方向：春夏促
+ 销、轻户外、工作日焕新\\n节点说明：确认主题方向、
+ 主视觉、套装需求、商店包装和活动入口。
 CATEGORIES:Merge Fashion,节日活动排期,T-30
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:T-30｜提交设计需求｜宋干节 / Songkran
+DESCRIPTION:T-30｜提交设计需求｜劳动节 / May Day
 TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fe464346ed079ba3@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20270408T100000
-DTEND;TZID=Asia/Shanghai:20270408T103000
-SUMMARY:T-30｜提交设计需求｜地球日 / Earth Day
-DESCRIPTION:目标节日：地球日 / Earth Day（2027-04-22）\\n适用
- 市场：全球\\n素材方向：环保、自然、绿色、可持续时
+UID:4e15ad6f562331bb@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20270403T100000
+DTEND;TZID=Asia/Shanghai:20270403T103000
+SUMMARY:T-30｜提交设计需求｜日本黄金周 / Golden Week
+DESCRIPTION:目标节日：日本黄金周 / Golden Week（2027-05-03）\\n
+ 适用市场：日本\\n素材方向：出游、春夏换装、休闲套
  装\\n节点说明：确认主题方向、主视觉、套装需求、商
- 店包装和活动入口。
+ 店包装和活动入口。\\n备注：以 5/3-5/5 核心连续假期为
+ 素材窗口。
 CATEGORIES:Merge Fashion,节日活动排期,T-30
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:T-30｜提交设计需求｜地球日 / Earth Day
+DESCRIPTION:T-30｜提交设计需求｜日本黄金周 / Golden Week
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c08a7c9d18e42b87@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20270409T100000
+DTEND;TZID=Asia/Shanghai:20270409T103000
+SUMMARY:T-30｜提交设计需求｜母亲节 / Mother's Day
+DESCRIPTION:目标节日：母亲节 / Mother's Day（2027-05-09）\\n适
+ 用市场：美国/台湾/香港/多国\\n素材方向：花、珍珠、
+ 温柔礼服、家庭主题\\n节点说明：确认主题方向、主视
+ 觉、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion,节日活动排期,T-30
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-30｜提交设计需求｜母亲节 / Mother's Day
 TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1e54325abc55257c@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20270413T100000
 DTEND;TZID=Asia/Shanghai:20270413T103000
 SUMMARY:当天｜节日当天｜宋干节 / Songkran
@@ -448,43 +500,8 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:942401d527d7bdfd@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20270417T100000
-DTEND;TZID=Asia/Shanghai:20270417T103000
-SUMMARY:T-30｜提交设计需求｜劳动节 / May Day
-DESCRIPTION:目标节日：劳动节 / May Day（2027-05-01）\\n适用市
- 场：欧洲/台湾/香港/多数国际市场\\n素材方向：春夏促
- 销、轻户外、工作日焕新\\n节点说明：确认主题方向、
- 主视觉、套装需求、商店包装和活动入口。
-CATEGORIES:Merge Fashion,节日活动排期,T-30
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:T-30｜提交设计需求｜劳动节 / May Day
-TRIGGER:-PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:26a9dd0d58230e17@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20270419T100000
-DTEND;TZID=Asia/Shanghai:20270419T103000
-SUMMARY:T-30｜提交设计需求｜日本黄金周 / Golden Week
-DESCRIPTION:目标节日：日本黄金周 / Golden Week（2027-05-03）\\n
- 适用市场：日本\\n素材方向：出游、春夏换装、休闲套
- 装\\n节点说明：确认主题方向、主视觉、套装需求、商
- 店包装和活动入口。\\n备注：以 5/3-5/5 核心连续假期为
- 素材窗口。
-CATEGORIES:Merge Fashion,节日活动排期,T-30
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:T-30｜提交设计需求｜日本黄金周 / Golden Week
-TRIGGER:-PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:7b7d06f573f7fd4c@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20270422T100000
 DTEND;TZID=Asia/Shanghai:20270422T103000
 SUMMARY:当天｜节日当天｜地球日 / Earth Day
@@ -500,25 +517,8 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:983d662828b78c8b@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20270425T100000
-DTEND;TZID=Asia/Shanghai:20270425T103000
-SUMMARY:T-30｜提交设计需求｜母亲节 / Mother's Day
-DESCRIPTION:目标节日：母亲节 / Mother's Day（2027-05-09）\\n适
- 用市场：美国/台湾/香港/多国\\n素材方向：花、珍珠、
- 温柔礼服、家庭主题\\n节点说明：确认主题方向、主视
- 觉、套装需求、商店包装和活动入口。
-CATEGORIES:Merge Fashion,节日活动排期,T-30
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:T-30｜提交设计需求｜母亲节 / Mother's Day
-TRIGGER:-PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:d87d6712cc4e2181@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20270501T100000
 DTEND;TZID=Asia/Shanghai:20270501T103000
 SUMMARY:当天｜节日当天｜劳动节 / May Day
@@ -534,8 +534,25 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:a61d26486cd4c04d@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20270502T100000
+DTEND;TZID=Asia/Shanghai:20270502T103000
+SUMMARY:T-30｜提交设计需求｜儿童节/骄傲月启动
+DESCRIPTION:目标节日：儿童节/骄傲月启动（2027-06-01）\\n适
+ 用市场：国际/欧美重点\\n素材方向：童趣、彩虹、多元
+ 表达、夏季主题\\n节点说明：确认主题方向、主视觉、
+ 套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion,节日活动排期,T-30
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-30｜提交设计需求｜儿童节/骄傲月启动
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:45faa7ed9097ff50@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20270503T100000
 DTEND;TZID=Asia/Shanghai:20270503T103000
 SUMMARY:当天｜节日当天｜日本黄金周 / Golden Week
@@ -552,7 +569,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:40f6ee3007357929@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20270509T100000
 DTEND;TZID=Asia/Shanghai:20270509T103000
 SUMMARY:当天｜节日当天｜母亲节 / Mother's Day
@@ -568,27 +585,10 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6806893c2d573d06@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20270518T100000
-DTEND;TZID=Asia/Shanghai:20270518T103000
-SUMMARY:T-30｜提交设计需求｜儿童节/骄傲月启动
-DESCRIPTION:目标节日：儿童节/骄傲月启动（2027-06-01）\\n适
- 用市场：国际/欧美重点\\n素材方向：童趣、彩虹、多元
- 表达、夏季主题\\n节点说明：确认主题方向、主视觉、
- 套装需求、商店包装和活动入口。
-CATEGORIES:Merge Fashion,节日活动排期,T-30
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:T-30｜提交设计需求｜儿童节/骄傲月启动
-TRIGGER:-PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:f6b5e3a862c0f9ae@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20270526T100000
-DTEND;TZID=Asia/Shanghai:20270526T103000
+UID:fa725de696064536@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20270510T100000
+DTEND;TZID=Asia/Shanghai:20270510T103000
 SUMMARY:T-30｜提交设计需求｜端午节 / Dragon Boat Festival
 DESCRIPTION:目标节日：端午节 / Dragon Boat Festival（2027-06-09）
  \\n适用市场：台湾/香港/东亚社群\\n素材方向：龙舟、香
@@ -602,8 +602,25 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:b6312a5d6d9574f5@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20270521T100000
+DTEND;TZID=Asia/Shanghai:20270521T103000
+SUMMARY:T-30｜提交设计需求｜父亲节 / Father's Day
+DESCRIPTION:目标节日：父亲节 / Father's Day（2027-06-20）\\n适
+ 用市场：美国/香港/多数国际市场\\n素材方向：家庭、休
+ 闲男装灵感、中性色\\n节点说明：确认主题方向、主视
+ 觉、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion,节日活动排期,T-30
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-30｜提交设计需求｜父亲节 / Father's Day
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:0e637364acb0fb75@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20270601T100000
 DTEND;TZID=Asia/Shanghai:20270601T103000
 SUMMARY:当天｜节日当天｜儿童节/骄傲月启动
@@ -619,25 +636,25 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:082bf4856b13ee06@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20270606T100000
-DTEND;TZID=Asia/Shanghai:20270606T103000
-SUMMARY:T-30｜提交设计需求｜父亲节 / Father's Day
-DESCRIPTION:目标节日：父亲节 / Father's Day（2027-06-20）\\n适
- 用市场：美国/香港/多数国际市场\\n素材方向：家庭、休
- 闲男装灵感、中性色\\n节点说明：确认主题方向、主视
- 觉、套装需求、商店包装和活动入口。
+UID:1a49808fed444f39@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20270607T100000
+DTEND;TZID=Asia/Shanghai:20270607T103000
+SUMMARY:T-30｜提交设计需求｜七夕/Tanabata
+DESCRIPTION:目标节日：七夕/Tanabata（2027-07-07）\\n适用市场
+ ：日本\\n素材方向：星河、许愿、浪漫夏夜\\n节点说明
+ ：确认主题方向、主视觉、套装需求、商店包装和活动
+ 入口。
 CATEGORIES:Merge Fashion,节日活动排期,T-30
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:T-30｜提交设计需求｜父亲节 / Father's Day
+DESCRIPTION:T-30｜提交设计需求｜七夕/Tanabata
 TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f0a4ba65e57d4535@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20270609T100000
 DTEND;TZID=Asia/Shanghai:20270609T103000
 SUMMARY:当天｜节日当天｜端午节 / Dragon Boat Festival
@@ -654,7 +671,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a45af547b442e6d7@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20270620T100000
 DTEND;TZID=Asia/Shanghai:20270620T103000
 SUMMARY:当天｜节日当天｜父亲节 / Father's Day
@@ -670,43 +687,10 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddc9dd1ea5115592@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20270623T100000
-DTEND;TZID=Asia/Shanghai:20270623T103000
-SUMMARY:T-30｜提交设计需求｜七夕/Tanabata
-DESCRIPTION:目标节日：七夕/Tanabata（2027-07-07）\\n适用市场
- ：日本\\n素材方向：星河、许愿、浪漫夏夜\\n节点说明
- ：确认主题方向、主视觉、套装需求、商店包装和活动
- 入口。
-CATEGORIES:Merge Fashion,节日活动排期,T-30
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:T-30｜提交设计需求｜七夕/Tanabata
-TRIGGER:-PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:9362960be582f7c0@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20270707T100000
-DTEND;TZID=Asia/Shanghai:20270707T103000
-SUMMARY:当天｜节日当天｜七夕/Tanabata
-DESCRIPTION:目标节日：七夕/Tanabata（2027-07-07）\\n适用市场
- ：日本\\n素材方向：星河、许愿、浪漫夏夜\\n节点说明
- ：关注上线表现，准备加推、热修和社媒素材。
-CATEGORIES:Merge Fashion,节日活动排期,当天
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:当天｜节日当天｜七夕/Tanabata
-TRIGGER:-PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:8efef4aee9233f73@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20270717T100000
-DTEND;TZID=Asia/Shanghai:20270717T103000
+UID:975e394d094ff856@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20270701T100000
+DTEND;TZID=Asia/Shanghai:20270701T103000
 SUMMARY:T-30｜提交设计需求｜日本花火大会 / Fireworks Festival
 DESCRIPTION:目标节日：日本花火大会 / Fireworks Festival（2027-0
  7-31）\\n适用市场：日本\\n素材方向：浴衣、夏祭、烟火
@@ -722,10 +706,26 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:c4387c83a23f429f@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20270725T100000
-DTEND;TZID=Asia/Shanghai:20270725T103000
+UID:9362960be582f7c0@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20270707T100000
+DTEND;TZID=Asia/Shanghai:20270707T103000
+SUMMARY:当天｜节日当天｜七夕/Tanabata
+DESCRIPTION:目标节日：七夕/Tanabata（2027-07-07）\\n适用市场
+ ：日本\\n素材方向：星河、许愿、浪漫夏夜\\n节点说明
+ ：关注上线表现，准备加推、热修和社媒素材。
+CATEGORIES:Merge Fashion,节日活动排期,当天
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:当天｜节日当天｜七夕/Tanabata
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a42c58f5381df96@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20270709T100000
+DTEND;TZID=Asia/Shanghai:20270709T103000
 SUMMARY:T-30｜提交设计需求｜七夕情人节 / Qixi
 DESCRIPTION:目标节日：七夕情人节 / Qixi（2027-08-08）\\n适用
  市场：台湾/香港/亚洲华人社群\\n素材方向：星河、东方
@@ -739,8 +739,25 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:e5aaf73dfa019c76@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20270716T100000
+DTEND;TZID=Asia/Shanghai:20270716T103000
+SUMMARY:T-30｜提交设计需求｜返校季 / Back to School
+DESCRIPTION:目标节日：返校季 / Back to School（2027-08-15）\\n适
+ 用市场：欧美/日韩/全球运营主题\\n素材方向：学院风、
+ 制服、文具、早秋\\n节点说明：确认主题方向、主视觉
+ 、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion,节日活动排期,T-30
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-30｜提交设计需求｜返校季 / Back to School
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:cc6e0ab9a31a47e3@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20270731T100000
 DTEND;TZID=Asia/Shanghai:20270731T103000
 SUMMARY:当天｜节日当天｜日本花火大会 / Fireworks Festival
@@ -757,25 +774,8 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:43e174bc13e87559@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20270801T100000
-DTEND;TZID=Asia/Shanghai:20270801T103000
-SUMMARY:T-30｜提交设计需求｜返校季 / Back to School
-DESCRIPTION:目标节日：返校季 / Back to School（2027-08-15）\\n适
- 用市场：欧美/日韩/全球运营主题\\n素材方向：学院风、
- 制服、文具、早秋\\n节点说明：确认主题方向、主视觉
- 、套装需求、商店包装和活动入口。
-CATEGORIES:Merge Fashion,节日活动排期,T-30
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:T-30｜提交设计需求｜返校季 / Back to School
-TRIGGER:-PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:8f368887c2ae01d1@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20270808T100000
 DTEND;TZID=Asia/Shanghai:20270808T103000
 SUMMARY:当天｜节日当天｜七夕情人节 / Qixi
@@ -792,7 +792,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f8445d426b196aa5@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20270815T100000
 DTEND;TZID=Asia/Shanghai:20270815T103000
 SUMMARY:当天｜节日当天｜返校季 / Back to School
@@ -808,10 +808,10 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:057bd6b2fca331fc@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20270901T100000
-DTEND;TZID=Asia/Shanghai:20270901T103000
+UID:ca61243ca42934ed@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20270816T100000
+DTEND;TZID=Asia/Shanghai:20270816T103000
 SUMMARY:T-30｜提交设计需求｜中秋节/秋夕 / Mid-Autumn & Chuseok
 DESCRIPTION:目标节日：中秋节/秋夕 / Mid-Autumn & Chuseok（2027-0
  9-15）\\n适用市场：台湾/香港/韩国/东亚社群\\n素材方向
@@ -826,10 +826,10 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:739789e823334863@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20270904T100000
-DTEND;TZID=Asia/Shanghai:20270904T103000
+UID:50048935fedcddf6@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20270819T100000
+DTEND;TZID=Asia/Shanghai:20270819T103000
 SUMMARY:T-30｜提交设计需求｜慕尼黑啤酒节 / Oktoberfest
 DESCRIPTION:目标节日：慕尼黑啤酒节 / Oktoberfest（2027-09-18）
  \\n适用市场：德国/欧洲/全球节庆\\n素材方向：民俗裙装
@@ -844,7 +844,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e632e07554d8eeae@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20270915T100000
 DTEND;TZID=Asia/Shanghai:20270915T103000
 SUMMARY:当天｜节日当天｜中秋节/秋夕 / Mid-Autumn & Chuseok
@@ -861,7 +861,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8033f3d57c78a84e@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20270918T100000
 DTEND;TZID=Asia/Shanghai:20270918T103000
 SUMMARY:当天｜节日当天｜慕尼黑啤酒节 / Oktoberfest
@@ -877,10 +877,10 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:d7dbf20b8000c912@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20271017T100000
-DTEND;TZID=Asia/Shanghai:20271017T103000
+UID:b541387659c74961@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20271001T100000
+DTEND;TZID=Asia/Shanghai:20271001T103000
 SUMMARY:T-30｜提交设计需求｜万圣节 / Halloween
 DESCRIPTION:目标节日：万圣节 / Halloween（2027-10-31）\\n适用
  市场：全球/欧美重点\\n素材方向：暗黑童话、女巫、派
@@ -894,8 +894,25 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:b81bab9f656238ff@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20271026T100000
+DTEND;TZID=Asia/Shanghai:20271026T103000
+SUMMARY:T-30｜提交设计需求｜感恩节 / Thanksgiving
+DESCRIPTION:目标节日：感恩节 / Thanksgiving（2027-11-25）\\n适
+ 用市场：美国/加拿大延展\\n素材方向：秋收、家庭晚宴
+ 、针织、暖色礼服\\n节点说明：确认主题方向、主视觉
+ 、套装需求、商店包装和活动入口。
+CATEGORIES:Merge Fashion,节日活动排期,T-30
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:T-30｜提交设计需求｜感恩节 / Thanksgiving
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:6ac24c91a9a6bcd5@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20271031T100000
 DTEND;TZID=Asia/Shanghai:20271031T103000
 SUMMARY:当天｜节日当天｜万圣节 / Halloween
@@ -911,25 +928,8 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3f0938c96a183a2f@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20271111T100000
-DTEND;TZID=Asia/Shanghai:20271111T103000
-SUMMARY:T-30｜提交设计需求｜感恩节 / Thanksgiving
-DESCRIPTION:目标节日：感恩节 / Thanksgiving（2027-11-25）\\n适
- 用市场：美国/加拿大延展\\n素材方向：秋收、家庭晚宴
- 、针织、暖色礼服\\n节点说明：确认主题方向、主视觉
- 、套装需求、商店包装和活动入口。
-CATEGORIES:Merge Fashion,节日活动排期,T-30
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:T-30｜提交设计需求｜感恩节 / Thanksgiving
-TRIGGER:-PT0M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:9a35e036be165a83@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20271125T100000
 DTEND;TZID=Asia/Shanghai:20271125T103000
 SUMMARY:当天｜节日当天｜感恩节 / Thanksgiving
@@ -945,10 +945,10 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:814671b81db9380b@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
-DTSTART;TZID=Asia/Shanghai:20271211T100000
-DTEND;TZID=Asia/Shanghai:20271211T103000
+UID:5b805819a7a44cc1@merge-fashion-holiday-calendar
+DTSTAMP:20261010T015331Z
+DTSTART;TZID=Asia/Shanghai:20271125T100000
+DTEND;TZID=Asia/Shanghai:20271125T103000
 SUMMARY:T-30｜提交设计需求｜圣诞节 / Christmas
 DESCRIPTION:目标节日：圣诞节 / Christmas（2027-12-25）\\n适用
  市场：全球/欧美重点\\n素材方向：节庆礼服、雪景、礼
@@ -963,7 +963,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d4a3e2794c86805b@merge-fashion-holiday-calendar
-DTSTAMP:20261009T121643Z
+DTSTAMP:20261010T015331Z
 DTSTART;TZID=Asia/Shanghai:20271225T100000
 DTEND;TZID=Asia/Shanghai:20271225T103000
 SUMMARY:当天｜节日当天｜圣诞节 / Christmas
